@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyledHatch } from './HatchStyles'
+import './Hatch.css'
 
 const overlayOn = (overLay) => {
     document.getElementById("overlay").style.display = "block";
@@ -11,7 +11,7 @@ const overlayOff = () => {
 }
 
 const Hatch = ({ hatchData: { id, nr, text, img, open, overLay }, handleClick }) => (
-    <StyledHatch frontBackground='./img/yule.jpg'>
+    <div className="hatch-background" frontBackground='./img/yule.jpg'>
         <div onClick={() => handleClick(id)} className={open ? "front hatch open" : "front hatch"}>
             <p >{nr}</p>
         </div>
@@ -27,7 +27,7 @@ const Hatch = ({ hatchData: { id, nr, text, img, open, overLay }, handleClick })
 
         </div>
 
-    </StyledHatch>
+    </div>
 )
 
 
