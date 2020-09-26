@@ -1,5 +1,5 @@
 
-.hatch-background {
+.window-background {
     padding-top: 100%;
 position: relative;
 cursor: pointer;
@@ -55,7 +55,7 @@ cursor: pointer;
     }
 
 
-.hatch {
+.window {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -83,7 +83,7 @@ cursor: pointer;
     
 }
 
-.hatch-content {
+.window-content {
     
         display: grid;
         border: solid black 1px;
@@ -96,7 +96,7 @@ cursor: pointer;
         top: 50%;
         left: 50%;
         font-size: 20px;
-  z-index: 1000;
+        z-index: 1000;
         transform: translate(-50%,-50%);
         -ms-transform: translate(-50%,-50%);   
 }

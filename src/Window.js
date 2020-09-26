@@ -1,5 +1,5 @@
 import React from 'react';
-import './Hatch.css'
+import './Window.css'
 
 const overlayOn = (overLay) => {
     document.getElementById("overlay").style.display = "block";
@@ -10,17 +10,17 @@ const overlayOff = () => {
     document.getElementById("overlay").style.display = "none";
 }
 
-const Hatch = ({ hatchData: { id, date, nr, text, img, open, overLay }, handleClick }) => (
-    <div className="hatch-background" frontBackground='./img/yule.jpg'>
-        <div onClick={() => handleClick(id, date)} className={open ? "front hatch open" : "front hatch"}>
+const Window = ({ windowData: { id, date, nr, text, img, open, overLay }, handleClick }) => (
+    <div className="window-background" frontBackground='./img/yule.jpg'>
+        <div onClick={() => handleClick(id, date)} className={open ? "front window open" : "front window"}>
             <p >{nr}</p>
         </div>
-        <div className={open ? "back hatch open" : "hatch back"}>
+        <div className={open ? "back window open" : "window back"}>
             <p onClick={() => handleClick(id, date)}>{text}</p>
             <button className="overlay-btn" onClick={() => overlayOn(overLay)}>full text</button>
         </div>
         <div id="overlay" >
-            <div className="hatch-content">
+            <div className="window-content">
                 <p id="overlayText"></p>
                 <button className="closebutton" onClick={overlayOff}>close</button>
             </div>
@@ -31,4 +31,4 @@ const Hatch = ({ hatchData: { id, date, nr, text, img, open, overLay }, handleCl
 )
 
 
-export default Hatch;
+export default Window;

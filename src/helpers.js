@@ -13,10 +13,10 @@ const shuffle = a => {
 };
 
 // Bad one-liners from https://onelinefun.com/christmas
-export const hatchArray = [
+export const windowArray = [
     {
         id: "hatch-1",
-        date: "Sat Sep 26 2020",
+
         nr: 26,
         img: "./img/xmas2.jpg",
         text:
@@ -26,7 +26,7 @@ export const hatchArray = [
     },
     {
         id: "hatch-2",
-        date: "Sat Sep 26 2020",
+
         nr: 2,
         img: "./img/xmas3.jpg",
         text:
@@ -36,7 +36,7 @@ export const hatchArray = [
     },
     {
         id: "hatch-3",
-        date: "Sat Sep 26 2020",
+
         nr: 3,
         img: "./img/xmas4.jpg",
         text:
@@ -206,4 +206,4 @@ export const hatchArray = [
 
 ];
 
-export const createCalendar = () => shuffle(hatchArray);
+export const createCalendar = () => shuffle(windowArray);

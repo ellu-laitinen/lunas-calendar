@@ -2,37 +2,35 @@ import React, { useState, useEffect } from 'react';
 
 import { StyledApp } from './AppStyles'
 import { createCalendar } from './helpers'
-import Hatch from './Hatch';
+import Window from './Window';
 import './App.css'
 
 
-
-
 function App() {
-  const [hatches, setHatches] = useState([]);
+  const [windows, setWindows] = useState([]);
 
   useEffect(() => {
-    hatches.length && localStorage.setItem('calendar', JSON.stringify(hatches));
-  }, [hatches])
+    windows.length && localStorage.setItem('calendar', JSON.stringify(windows));
+  }, [windows])
 
   useEffect(() => {
     const calendar = localStorage.calendar
       ? JSON.parse(localStorage.calendar)
       : createCalendar();
 
-    setHatches(calendar);
+    setWindows(calendar);
   }, []);
 
   // store calendar in local storage
 
   /**/
 
-  const handleFlipHatch = (id) => {
+  const handleFlipWindow = (id) => {
     /*   let today = new Date().getDate();
       console.log(today) */
-    const updatedHatches = hatches.map(hatch =>
-      hatch.id === id /* && hatch.nr === today */ ?
-        { ...hatch, open: !hatch.open } : hatch
+    const updatedWindows = windows.map(window =>
+      window.id === id /* && window.nr === today */ ?
+        { ...window, open: !window.open } : window
 
     );
     /*     if (id == id && date == today) {
@@ -41,7 +39,7 @@ function App() {
           console.log('not same date')
         } */
 
-    setHatches(updatedHatches)
+    setWindows(updatedWindows)
     /*     console.log(new Date().toDateString())
         console.log(new Date().getDate())
         console.log(id)
@@ -88,11 +86,11 @@ function App() {
       </div>
       <StyledApp className="more-snow">
 
-        {hatches.map(hatch =>
-          <Hatch
-            key={hatch.id}
-            hatchData={hatch}
-            handleClick={handleFlipHatch}
+        {windows.map(window =>
+          <Window
+            key={window.id}
+            windowData={window}
+            handleClick={handleFlipWindow}
 
           />)}
 
