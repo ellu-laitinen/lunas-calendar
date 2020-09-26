@@ -10,13 +10,13 @@ const overlayOff = () => {
     document.getElementById("overlay").style.display = "none";
 }
 
-const Hatch = ({ hatchData: { id, nr, text, img, open, overLay }, handleClick }) => (
+const Hatch = ({ hatchData: { id, date, nr, text, img, open, overLay }, handleClick }) => (
     <div className="hatch-background" frontBackground='./img/yule.jpg'>
-        <div onClick={() => handleClick(id)} className={open ? "front hatch open" : "front hatch"}>
+        <div onClick={() => handleClick(id, date)} className={open ? "front hatch open" : "front hatch"}>
             <p >{nr}</p>
         </div>
         <div className={open ? "back hatch open" : "hatch back"}>
-            <p onClick={() => handleClick(id)}>{text}</p>
+            <p onClick={() => handleClick(id, date)}>{text}</p>
             <button className="overlay-btn" onClick={() => overlayOn(overLay)}>full text</button>
         </div>
         <div id="overlay" >

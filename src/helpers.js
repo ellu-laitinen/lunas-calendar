@@ -7,6 +7,7 @@ const shuffle = a => {
     for (let i = a.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [a[i], a[j]] = [a[j], a[i]];
+
     }
     return a;
 };
@@ -15,7 +16,8 @@ const shuffle = a => {
 export const hatchArray = [
     {
         id: "hatch-1",
-        nr: 1,
+        date: "Sat Sep 26 2020",
+        nr: 26,
         img: "./img/xmas2.jpg",
         text:
             "Tarina alkaa...",
@@ -24,6 +26,7 @@ export const hatchArray = [
     },
     {
         id: "hatch-2",
+        date: "Sat Sep 26 2020",
         nr: 2,
         img: "./img/xmas3.jpg",
         text:
@@ -33,6 +36,7 @@ export const hatchArray = [
     },
     {
         id: "hatch-3",
+        date: "Sat Sep 26 2020",
         nr: 3,
         img: "./img/xmas4.jpg",
         text:
@@ -77,6 +81,7 @@ export const hatchArray = [
     },
     {
         id: "hatch-8",
+        date: "Sat Sep 26 2020",
         nr: 8,
         img: "./img/xmas9.jpg",
         text:

@@ -27,12 +27,25 @@ function App() {
 
   /**/
 
-  const handleFlipHatch = id => {
+  const handleFlipHatch = (id) => {
+    /*   let today = new Date().getDate();
+      console.log(today) */
     const updatedHatches = hatches.map(hatch =>
-      hatch.id === id ? { ...hatch, open: !hatch.open } : hatch
+      hatch.id === id /* && hatch.nr === today */ ?
+        { ...hatch, open: !hatch.open } : hatch
+
     );
+    /*     if (id == id && date == today) {
+          console.log('same date')
+        } else {
+          console.log('not same date')
+        } */
+
     setHatches(updatedHatches)
-    console.log(id)
+    /*     console.log(new Date().toDateString())
+        console.log(new Date().getDate())
+        console.log(id)
+     */
   }
 
 
