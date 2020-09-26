@@ -18,7 +18,7 @@ export const hatchArray = [
         nr: 1,
         img: "./img/xmas2.jpg",
         text:
-            "On the first day of December, our story begins...",
+            "Tarina alkaa...",
         overLay: "A group of little Faeries huddled in their home deep under the roots of a giant oak tree. They were safe and snug in their tiny underground cave lined with dandelion fluff, bird feathers, and dried moss. Outside, the wind blew cold and the snow fell softly down to cover the ground. 'I saw the Sun King today,' the faerie named Rose said as she pulled her mossy cloak tighter about her. 'He looked so old and tired as he walked off through the forest. What is wrong with him? 'The great oak said he is dying' answered Daffodil. 'Dying? Oh, what will we do now?', Little Meadow Grass started to cry, 'If the Sun King dies, our little plant friends will not grow. The Birds will not come and sing again. Everything will be winter for ever!' Lilac, Dandelion and Elder Blossom tried to comfort their friend, but they were all very sad. As they huddled together, there was a knock on the tiny door...",
         open: false
     },

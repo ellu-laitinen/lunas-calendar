@@ -16,7 +16,7 @@ cursor: pointer;
         display: flex;
         align-items: center;
         justify-content: center;
-        font-family: "Dancing Script", cursive;
+        font-family: "Lato";
         color: #fff;
         padding: 20px;
         width: 50%;
@@ -46,7 +46,7 @@ cursor: pointer;
     }
 
     p {
-        font-family: "Dancing Script", cursive;
+        font-family: "Lato";
         color: #fff;
         padding: 10px;
         font-size: 1.4rem;
@@ -95,7 +95,7 @@ cursor: pointer;
         top: 50%;
         left: 50%;
         font-size: 20px;
-  
+  z-index: 1000;
         transform: translate(-50%,-50%);
         -ms-transform: translate(-50%,-50%);   
 }
@@ -108,7 +108,7 @@ cursor: pointer;
     position: absolute;
     bottom: 10px;
     right: 10px;
-    font-family: "Dancing Script", cursive;
+    font-family: "Lato";
     font-weight: lighter;  
     font-size: x-large;
     color: white;
