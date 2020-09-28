@@ -58,7 +58,8 @@ export const windowArray = [
         nr: 5,
         img: "./img/xmas6.jpg",
         text:
-            "STRESSED is just DESSERTS spelled backward.",
+            "Tänään lauletaan...",
+        overLay: 'Tänään lauletaan Frozenia! <iframe title= "frozen 2 Elsa sings" width="800" height="500" src="https://www.youtube.com/embed/XCr27xuLCDM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
         open: false
     },
     {
