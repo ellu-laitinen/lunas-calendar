@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
-import { StyledApp } from './AppStyles'
 import { createCalendar } from './helpers'
-import Window from './Window';
+import Window from './Window/Window';
 import './App.css'
 
 
@@ -84,7 +83,7 @@ function App() {
           ❄
   </div>
       </div>
-      <StyledApp className="more-snow">
+      <div className="more-snow calendar-main">
 
         {windows.map(window =>
           <Window
@@ -94,7 +93,7 @@ function App() {
 
           />)}
 
-      </StyledApp>
+      </div>
 
     </>
   );

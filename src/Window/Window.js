@@ -1,5 +1,5 @@
 import React from 'react';
-import './Window.css'
+import './Window.scss'
 
 const overlayOn = (overLay) => {
     document.getElementById("overlay").style.display = "block";
@@ -11,7 +11,7 @@ const overlayOff = () => {
 }
 
 const Window = ({ windowData: { id, date, nr, text, img, open, overLay }, handleClick }) => (
-    <div className="window-background" frontBackground='./img/yule.jpg'>
+    <div className="window-background" background='./img/yule.jpg'>
         <div onClick={() => handleClick(id, date)} className={open ? "front window open" : "front window"}>
             <p >{nr}</p>
         </div>
