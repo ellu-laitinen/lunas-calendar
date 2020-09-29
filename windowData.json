@@ -1,0 +1,161 @@
+{
+    "windows": [
+        {
+            "id": 1,
+            "nr": 1,
+            "text": "Tarina alkaa",
+            "overLay": "A group of little Faeries huddled in their home deep under the roots...",
+            "open": false
+        },
+        {
+            "id": 2,
+            "nr": 2,
+            "text": "Tänään askarrellaan joulukoristeita! ",
+            "overLay": "<h3> Tähän tarvitset: valkoista liimaa (esim. Erikeeper), villalankaa, nuppineuloja, piparimuotteja sekä alustan johon nuppineulat saa kiinni, esim. styroxia. </h3> <br/> <iframe title='tutorial video' width='560' height='315' src='https://www.youtube.com/embed/Cm0iHUY7Iog' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+            "open": false
+        },
+        {
+            "id": 3,
+            "nr": 3,
+            "text": "What is the best Christmas present ever? A broken drum - you can't beat it!",
+            "overLay": "iutvlyurcykeckyrvluyöbuitöit",
+            "open": false
+        },
+        {
+            "id": 4,
+            "nr": 4,
+            "text": "How do you know when Santa's in the room? You can sense his presents.",
+            "overLay": "hgbf6o87p87nlinönöi9878b89yn8yp9",
+            "open": false
+        },
+        {
+            "id": 5,
+            "nr": 5,
+            "text": "Tänään lauletaan...",
+            "overLay": "Tänään lauletaan Frozenia! </br> <iframe title= 'frozen 2 Elsa sings' width='800' height='500' src='https: //www.youtube.com/embed/XCr27xuLCDM' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+            "open": false
+        },
+        {
+            "id": 6,
+            "nr": 6,
+            "text": "What is the difference between snowmen and snowwomen? Snowballs.",
+            "overLay": "",
+            "open": false
+        },
+        {
+            "id": 7,
+            "nr": 7,
+            "text": "Tänään herkutellaan kaakolla!",
+            "overLay": "<h2>Tarvitset</h2> <ul> <li> 0,5 l maitoa </li> <li> 2 rkl tummaa kaakaojauhetta </li><li> 80g tummaa suklaata raastettuna </li><li> mausteita oman maun mukaan (kaneli, chili, piparminttu...) </li></ul>",
+            "open": false
+        },
+        {
+            "id": 8,
+            "date": "Sat Sep 26 2020",
+            "nr": 8,
+            "text": "What kind of motorbike does Santa ride? A Holly Davidson!",
+            "open": false
+        },
+        {
+            "id": 9,
+            "nr": 9,
+            "text": "Tänään on leffapäivä!",
+            "overLay": "Pidetään leffailta! Mitä elokuvaa teillä katsotaan? Tässä hyviä vaihtoehtoja: <img width= '200' height='350' src='./img/xmas18.jpg' />",
+            "open": false
+        },
+        {
+            "id": 10,
+            "nr": 10,
+            "text": "When you stop believing in Santa Claus is when you start getting clothes for Christmas!",
+            "overLay": "",
+            "open": false
+        },
+        {
+            "id": 11,
+            "nr": 11,
+            "text": "What goes 'oh oh oh'? Santa walking backwards.",
+            "open": false
+        },
+        {
+            "id": 12,
+            "nr": 12,
+            "text": "According to my kids' Christmas lists, they think this parenting gig pays pretty well.",
+            "open": false
+        },
+        {
+            "id": 13,
+            "nr": 13,
+            "text": "Which of Santa's reindeers needs to mind his manners the most? 'Rude'olph",
+            "open": false
+        },
+        {
+            "id": 14,
+            "nr": 14,
+            "text": "What will fall on the lawn first? An autumn leaf or a Christmas catalog?",
+            "open": false
+        },
+        {
+            "id": 15,
+            "nr": 15,
+            "text": "What do elves learn in school? The Elf-abet!",
+            "open": false
+        },
+        {
+            "id": 16,
+            "nr": 16,
+            "text": "How do you scare a snowman? You get a hairdryer!",
+            "open": false
+        },
+        {
+            "id": 17,
+            "nr": 17,
+            "text": "The main thing I want this holiday season is for someone to wake me when it's over.",
+            "open": false
+        },
+        {
+            "id": 18,
+            "nr": 18,
+            "text": "Remember, children. The best way to get a puppy for Christmas is to beg for a baby brother.",
+            "open": false
+        },
+        {
+            "id": 19,
+            "nr": 19,
+            "text": "I bought my son a fridge for Christmas. – I can't wait to see his face light up when he opens it.",
+            "open": false
+        },
+        {
+            "id": 20,
+            "nr": 20,
+            "text": "Santa's elves are just a bunch of subordinate Clauses.",
+            "open": false
+        },
+        {
+            "id": 21,
+            "nr": 21,
+            "text": "What is the best evidence that Microsoft has a monopoly? Santa Claus had to switch from Chimneys to Windows.",
+            "open": false
+        },
+        {
+            "id": 22,
+            "nr": 22,
+            "text": "And here we are, the first day after the Solstice",
+            "overLay": "The Wheel has turned and we are once again heading towards the light. Let us focus on growth, the coming spring, new life and abundance. Blessed be! ",
+            "open": false
+        },
+        {
+            "id": 23,
+            "nr": 23,
+            "text": "And here we are, the first day after the Solstice",
+            "overLay": "The Wheel has turned and we are once again heading towards the light. Let us focus on growth, the coming spring, new life and abundance. Blessed be! ",
+            "open": false
+        },
+        {
+            "id": 24,
+            "nr": 24,
+            "text": "And here we are, the first day after the Solstice",
+            "overLay": "The Wheel has turned and we are once again heading towards the light. Let us focus on growth, the coming spring, new life and abundance. Blessed be! ",
+            "open": false
+        }
+    ]
+}

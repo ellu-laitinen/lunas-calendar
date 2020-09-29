@@ -183,6 +183,22 @@ export const windowArray = [
         overLay: "The Wheel has turned and we are once again heading towards the light. Let us focus on growth, the coming spring, new life and abundance. Blessed be! ",
         open: false
     },
+    {
+        id: "hatch-23",
+        nr: 23,
+        text:
+            "And here we are, the first day after the Solstice",
+        overLay: "The Wheel has turned and we are once again heading towards the light. Let us focus on growth, the coming spring, new life and abundance. Blessed be! ",
+        open: false
+    },
+    {
+        id: "hatch-24",
+        nr: 24,
+        text:
+            "And here we are, the first day after the Solstice",
+        overLay: "The Wheel has turned and we are once again heading towards the light. Let us focus on growth, the coming spring, new life and abundance. Blessed be! ",
+        open: false
+    }
 
 
 ];
