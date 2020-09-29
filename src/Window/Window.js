@@ -8,6 +8,7 @@ const overlayOn = (overLay) => {
 
 const overlayOff = () => {
     document.getElementById("overlay").style.display = "none";
+
 }
 
 const Window = ({ windowData: { id, date, nr, text, img, open, overLay }, handleClick }) => (

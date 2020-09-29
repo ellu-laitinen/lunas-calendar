@@ -29,7 +29,7 @@ export const windowArray = [
         nr: 2,
         text:
             "Tänään askarrellaan joulukoristeita! ",
-        overLay: 'Tähän tarvitset: valkoista liimaa (esim. Erikeeper), villalankaa, nuppineuloja, piparimuotteja sekä alustan johon nuppineulat saa kiinni, esim. styroxia. <iframe title="tutorial video" width="560" height="315" src="https://www.youtube.com/embed/Cm0iHUY7Iog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+        overLay: '<h3> Tähän tarvitset: valkoista liimaa (esim. Erikeeper), villalankaa, nuppineuloja, piparimuotteja sekä alustan johon nuppineulat saa kiinni, esim. styroxia. </h3> <br/> <iframe title="tutorial video" width="560" height="315" src="https://www.youtube.com/embed/Cm0iHUY7Iog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
         open: false
     },
     {
@@ -54,7 +54,7 @@ export const windowArray = [
         nr: 5,
         text:
             "Tänään lauletaan...",
-        overLay: 'Tänään lauletaan Frozenia! <iframe title= "frozen 2 Elsa sings" width="800" height="500" src="https://www.youtube.com/embed/XCr27xuLCDM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+        overLay: 'Tänään lauletaan Frozenia! </br> <iframe title= "frozen 2 Elsa sings" width="800" height="500" src="https://www.youtube.com/embed/XCr27xuLCDM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
         open: false
     },
     {
@@ -70,7 +70,8 @@ export const windowArray = [
         id: "hatch-7",
         nr: 7,
         text:
-            "What nationality is Santa Claus? North Polish",
+            "Tänään herkutellaan kaakolla!",
+        overLay: '<h2>Tarvitset</h2> <ul> <li> 0,5 l maitoa </li> <li> 2 rkl tummaa kaakaojauhetta </li><li> 80g tummaa suklaata raastettuna </li><li> mausteita oman maun mukaan (kaneli, chili, piparminttu...) </li></ul>',
         open: false
     },
     {
@@ -94,7 +95,7 @@ export const windowArray = [
         nr: 10,
         text:
             "When you stop believing in Santa Claus is when you start getting clothes for Christmas!",
-        overLay: ' Sowulo: Yule <iframe width="560" height="315" src="https://www.youtube.com/embed/iCXNPimqMCs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+        overLay: ' Sowulo: Yule <iframe width="560" height="315" src="https://www.youtube.com/embed/iCXNPimqMCs" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
         open: false
     },
     {

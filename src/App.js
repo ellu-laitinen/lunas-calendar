@@ -20,15 +20,11 @@ function App() {
     setWindows(calendar);
   }, []);
 
-  // store calendar in local storage
-
-  /**/
-
   const handleFlipWindow = (id) => {
-    /*   let today = new Date().getDate();
-      console.log(today) */
+    /* let today = new Date().getDate(); */
+    /*  console.log(today) */
     const updatedWindows = windows.map(window =>
-      window.id === id /* && window.nr === today */ ?
+      window.id === id/*  && window.nr <= today  */ ?
         { ...window, open: !window.open } : window
 
     );
