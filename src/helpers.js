@@ -17,7 +17,7 @@ export const windowArray = [
     {
         id: "hatch-1",
 
-        nr: 26,
+        nr: 1,
         text:
             "Tarina alkaa...",
         overLay: "A group of little Faeries huddled in their home deep under the roots of a giant oak tree. They were safe and snug in their tiny underground cave lined with dandelion fluff, bird feathers, and dried moss. Outside, the wind blew cold and the snow fell softly down to cover the ground. 'I saw the Sun King today,' the faerie named Rose said as she pulled her mossy cloak tighter about her. 'He looked so old and tired as he walked off through the forest. What is wrong with him? 'The great oak said he is dying' answered Daffodil. 'Dying? Oh, what will we do now?', Little Meadow Grass started to cry, 'If the Sun King dies, our little plant friends will not grow. The Birds will not come and sing again. Everything will be winter for ever!' Lilac, Dandelion and Elder Blossom tried to comfort their friend, but they were all very sad. As they huddled together, there was a knock on the tiny door...",
@@ -28,8 +28,8 @@ export const windowArray = [
 
         nr: 2,
         text:
-            "What do you call people who are afraid of Santa Claus? Claustrophobic",
-        overLay: "bguygbuygbllylgbljg",
+            "Tänään askarrellaan joulukoristeita! ",
+        overLay: 'Tähän tarvitset: valkoista liimaa (esim. Erikeeper), villalankaa, nuppineuloja, piparimuotteja sekä alustan johon nuppineulat saa kiinni, esim. styroxia. <iframe title="tutorial video" width="560" height="315" src="https://www.youtube.com/embed/Cm0iHUY7Iog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
         open: false
     },
     {
@@ -85,7 +85,8 @@ export const windowArray = [
         id: "hatch-9",
         nr: 9,
         text:
-            "Who is never hungry at Christmas? The turkey - he's always stuffed!",
+            "Tänään on leffapäivä!",
+        overLay: 'Pidetään leffailta! Mitä elokuvaa teillä katsotaan? Tässä hyviä vaihtoehtoja: <img width= "200" height=" 350" src="./img/xmas18.jpg" />',
         open: false
     },
     {

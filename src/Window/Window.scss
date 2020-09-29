@@ -20,7 +20,7 @@ cursor: pointer;
         align-items: center;
         justify-content: center;
         font-family: "Lato";
-        color: #fff;
+        color: $font-color-light;
         padding: 20px;
         width: 50%;
         height: 50%;
@@ -51,10 +51,11 @@ cursor: pointer;
 
   .back p {
         font-family: "Lato";
-        color: #fff;
+        color: $font-color-dark;
         padding: 10px;
         font-size: 1.4rem;
         text-align: center;
+        font-weight: bold;
     }
 
 
@@ -90,9 +91,9 @@ cursor: pointer;
     
         display: grid;
         border: solid black 1px;
-        min-width: 50%;
-        min-height: 50%;
-        color: black;
+    /*     min-width: 50%;
+        min-height: 50%; */
+        color: $font-color-dark;
         background: rgba(200, 247, 197, 0.9);
         border-radius: 5px;
         box-shadow: 0 0 5px black; 
@@ -118,7 +119,7 @@ cursor: pointer;
     font-family: "Lato";
     font-weight: lighter;  
     font-size: large;
-    color: white;
+    color: $font-color-light;
 
 }
 
