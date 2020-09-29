@@ -1,3 +1,5 @@
+
+
 /**
  * Found this on Stackoverflow https://stackoverflow.com/questions/6274339/how-can-i-shuffle-an-array
  * Shuffles array in place. ES6 version
@@ -45,8 +47,8 @@ export const windowArray = [
         id: "hatch-4",
         nr: 4,
         text:
-            "How do you know when Santa's in the room? You can sense his presents.",
-        overLay: "hgbf6o87p87nlinönöi9878b89yn8yp9",
+            "Värityskuva",
+        overLay: " <div className='coloring'><img width='150' height='130' alt='coloring' src='./img/coloring.jpeg'></img> <a href='./img/coloring.jpeg' download> lataa kuva</a></div> <div className='coloring'><img  width='150' height='130'  alt='coloring' src='./img/christmastree.jpg'></img> <a href='./img/christmastree.jpg' download> lataa kuva</a></div> ",
         open: false
     },
     {
@@ -62,16 +64,15 @@ export const windowArray = [
         nr: 6,
         text:
             "What is the difference between snowmen and snowwomen? Snowballs.",
-        overLay: '<iframe title="lisa thiel yule" width="560" height="315" src="https://www.youtube.com/embed/h0Xz5w-Sr5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-
+        overLay: '',
         open: false
     },
     {
         id: "hatch-7",
         nr: 7,
         text:
-            "Tänään herkutellaan kaakolla!",
-        overLay: '<h2>Tarvitset</h2> <ul> <li> 0,5 l maitoa </li> <li> 2 rkl tummaa kaakaojauhetta </li><li> 80g tummaa suklaata raastettuna </li><li> mausteita oman maun mukaan (kaneli, chili, piparminttu...) </li></ul>',
+            "Tänään herkutellaan kaakaolla!",
+        overLay: '<h2>Tarvitset</h2> <ul> <li> 0,5 l maitoa </li> <li> 2 rkl tummaa kaakaojauhetta </li><li> 80g tummaa suklaata raastettuna </li><li> mausteita oman maun mukaan (kaneli, chili, piparminttu...) </li></ul> <p> Lämmitä maito ja kaada se suklaaraasteen päälle. Kaada maito takaisin kattilaan ja lisää kakojauhe ja sokeri. Kuumenna kaakao kiehuvaksi. Kaada varovasto mukeihin ja lisää päälle oman maun mukaan mausteita, kermavaahtoa tai vaahtokarkkeja! </p>',
         open: false
     },
     {
