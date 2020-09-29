@@ -107,8 +107,8 @@ cursor: pointer;
         -ms-transform: translate(-50%,-50%);   
 }
 
-.closebutton, .overlay-btn {
-    background: #B3000C;
+%btn-shared {
+   
     border-radius: 5px;
     padding: 6px;
     border: black solid 1px;
@@ -119,5 +119,19 @@ cursor: pointer;
     font-weight: lighter;  
     font-size: large;
     color: white;
+
+}
+
+.btn {
+    &-close {
+        @extend %btn-shared;
+        background-color: green;
+    }
+    &-overlay {
+        @extend %btn-shared;
+        background-color: #B3000C;
+        font-size: small;
+    }
+ 
    
 }

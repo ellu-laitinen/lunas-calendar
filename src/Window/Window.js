@@ -17,12 +17,12 @@ const Window = ({ windowData: { id, date, nr, text, img, open, overLay }, handle
         </div>
         <div className={open ? "back window open" : "window back"}>
             <p onClick={() => handleClick(id, date)}>{text}</p>
-            <button className="overlay-btn" onClick={() => overlayOn(overLay)}>Näytä koko luukku!</button>
+            <button className="btn btn-overlay" onClick={() => overlayOn(overLay)}>Näytä koko luukku!</button>
         </div>
         <div id="overlay" >
             <div className="window-content">
                 <p id="overlayText"></p>
-                <button className="closebutton" onClick={overlayOff}>sulje</button>
+                <button className="btn btn-close" onClick={overlayOff}>sulje</button>
             </div>
 
         </div>
