@@ -9,7 +9,7 @@ import './App.css'
 function App() {
   const [window, setWindow] = useState([])
 
-  useEffect(() => {
+  const createCalendar = useEffect(() => {
     axios.get("http://localhost:3001/windows").then((response) => {
       const windows = response.data
       setWindow(windows)
@@ -42,13 +42,13 @@ function App() {
     window.length && localStorage.setItem('calendar', JSON.stringify(window));
   }, [window])
 
-  /*    useEffect(() => {
-       const calendar = localStorage.calendar
-         ? JSON.parse(localStorage.calendar)
-         : createCalendar();
-   
-       setWindows(calendar);
-     }, []);  */
+  useEffect(() => {
+    const calendar = localStorage.calendar
+      ? JSON.parse(localStorage.calendar)
+      : createCalendar();
+
+    setWindow(calendar);
+  }, [createCalendar]);
 
 
 
