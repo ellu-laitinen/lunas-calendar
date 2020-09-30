@@ -5,26 +5,50 @@ import axios from 'axios';
 import Window from './Window/Window';
 import './App.css'
 
-const shuffle = a => {
+/* const shuffle = a => {
   for (let i = a.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [a[i], a[j]] = [a[j], a[i]];
 
   }
   return a;
-};
+}; */
 
 
 function App() {
   const [window, setWindow] = useState([])
 
 
+
   useEffect(() => {
     axios.get("http://localhost:3001/windows").then((response) => {
       const windows = response.data
-      setWindow(shuffle(windows))
+      setWindow(windows)
+      const calendar = localStorage.calendar
+        ? JSON.parse(localStorage.calendar)
+        : window;
+
+      setWindow(calendar);
     })
   }, [])
+
+  useEffect(() => {
+    window.length && localStorage.setItem('calendar', JSON.stringify(window));
+  }, [window])
+
+
+
+  /*  useEffect(() => {
+     const calendar = localStorage.calendar
+       ? JSON.parse(localStorage.calendar)
+       : window;
+ 
+     setWindow(calendar);
+   }, []);
+  */
+
+
+  // const createCalendar = () => shuffle(window);
 
   const handleFlipWindow = (id) => {
     /* let today = new Date().getDate(); */
@@ -46,18 +70,6 @@ function App() {
     console.log(id)
 
   }
-
-  useEffect(() => {
-    window.length && localStorage.setItem('calendar', JSON.stringify(window));
-  }, [window])
-
-  /*  useEffect(() => {
-      const calendar = localStorage.calendar
-        ? JSON.parse(localStorage.calendar)
-        : createCalendar();
-  
-      setWindow(calendar);
-    }, [createCalendar]);  */
 
   const windowList = window.map(w =>
     <Window
