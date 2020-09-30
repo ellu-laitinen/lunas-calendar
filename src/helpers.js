@@ -124,7 +124,8 @@ export const windowArray = [
         id: "hatch-14",
         nr: 14,
         text:
-            "What will fall on the lawn first? An autumn leaf or a Christmas catalog?",
+            "Piparinleivontaa!",
+        overLay: "Tänään leivotaan ja koristellaan pipareita!",
         open: false
     },
     {
@@ -180,24 +181,24 @@ export const windowArray = [
         id: "hatch-22",
         nr: 22,
         text:
-            "And here we are, the first day after the Solstice",
-        overLay: "The Wheel has turned and we are once again heading towards the light. Let us focus on growth, the coming spring, new life and abundance. Blessed be! ",
+            "",
+        overLay: " ",
         open: false
     },
     {
         id: "hatch-23",
         nr: 23,
         text:
-            "And here we are, the first day after the Solstice",
-        overLay: "The Wheel has turned and we are once again heading towards the light. Let us focus on growth, the coming spring, new life and abundance. Blessed be! ",
+            "",
+        overLay: "",
         open: false
     },
     {
         id: "hatch-24",
         nr: 24,
         text:
-            "And here we are, the first day after the Solstice",
-        overLay: "The Wheel has turned and we are once again heading towards the light. Let us focus on growth, the coming spring, new life and abundance. Blessed be! ",
+            "Hyvää joulua!",
+        overLay: "",
         open: false
     }
 
