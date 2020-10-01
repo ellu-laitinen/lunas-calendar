@@ -66,8 +66,8 @@
         {
             "id": 10,
             "nr": 10,
-            "text": "When you stop believing in Santa Claus is when you start getting clothes for Christmas!",
-            "overLay": "",
+            "text": "Piirustuksia",
+            "overLay": "Tänään piirretään! Katso video ja piirrä mukana. Helppoa! <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fpr4P4ak85c\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
             "open": false
         },
         {
@@ -101,28 +101,29 @@
         {
             "id": 15,
             "nr": 15,
-            "text": "",
-            "overLay": "",
+            "text": "Lumihiutaleet",
+            "overLay": "Tänään askarrellaan lumihiutaleita. Tästä löydät esimerkkejä helmpompiin hiutaleisiin: ja tästä haastavampiin: ",
             "open": false
         },
         {
             "id": 16,
             "nr": 16,
-            "text": "How do you scare a snowman? You get a hairdryer!",
+            "text": "Kiitollisuus",
+            "overLay": "<div>Tänään mietitään asioita, joista olemme kiitollisia. Oletko saanut tällä viikolla lempiruokaasi?</div> Opitko koulussa jotain uutta? Kävitkö luistelemassa tai jossain kivassa paikassa? Mieti 5 asiaa, joista sinä olet kiitollinen. Voit kirjoittaa ne paperille, jos haluat. Keskustele äidin tai isän, isovanhemman, sisaruksen tai muun sukulaisen kanssa siitä, mistä olette kiitollisia.",
             "open": false
         },
         {
             "id": 17,
             "nr": 17,
             "text": "Joulukoristeita!",
-            "overLay": "Tänään askarrellaan joulukoristeita! ",
+            "overLay": "Tänään askarrellaan joulukoristeita joulukuuseen! ",
             "open": false
         },
         {
             "id": 18,
             "nr": 18,
-            "text": "Kiitollisuus",
-            "overLay": "Tänään mietitään asioita, joista olemme kiitollisia. Oletko saanut tällä viikolla lempiruokaasi? Opitko koulussa jotain uutta? Kävitkö luistelemassa tai jossain kivassa paikassa? Mieti 5 asiaa, joista sinä olet kiitollinen. Voit kirjoittaa ne paperille, jos haluat. Keskustele äidin tai isän, isovanhemman, sisaruksen tai muun sukulaisen kanssa siitä, mistä olette kiitollisia.",
+            "text": "Tänään luetaan tarina siitä, kun Myyrä vilustui",
+            "overLay": "Talvi oli tullut, ja Myyrä odotti lunta malttamattomana. Se meni joka päivä ulos ja katseli taivaalle. Ulkona tuuli ja satoi, mutta lunta ei kuulunut. <br> \"Tule sisälle\", sanoi Myyrän äiti, \"muuten sinä vilustut.\" Sitten eräänä päivänä Myyrä hesäri ja veti verhot auki. \"Nyt sataa lunta!\", se hihkaisi, mutta sen ääni oli vähän käheä. Myyrän kurkku oli kipeä ja sen päätä pakotti. Yhtäkkiä se aivasti kuuluvasti. Atsuu! Myyrä oli vilustunut. Alakerrassa soi ovikello. Myyrän ystävät olivat tulleet hakemaan sitä. \"Lunta sataa!\", huudahti Pupu. \"Tule ulos leikkimään.\" Myyrä tuhisi  ja puhisi ja siltä pääsi hurja aivastus. \"En voi\", se sanoi surkeana. \"Olen vilustunut.\" <br> Myyrän äiti peitteli sen vuoteeseen. \"Ihan epäreilua\", Myyrä niiskutti surullisena. \"Minäkin haluan lumeen leikkimään.\" Siltä pääsi vielä iso aivastus - \"Atsuu!\" - ja se painui peiton alle nukkumaan. Silloin Myyrän äiti sai ajatuksen.<br> \"Tiedän, miten Myyrä pääsee lumeen leikkimään\", äiti sanoi Pupulle ja Oravalle. Äidillä oli paljon valkoista silkkipaperia. \"Ottakaa mallia\", se sanoi ja laittoi pöydälle paperia ja sakset. Toiset kerääntyivät pöydän ympärille, ja Myyrän äiti antoi niille ohjeet. <br> Kun Myyrä heräsi, sen ympärillä kieppui paperisia lumihiutaleita. \"Yllätys!\", huusivat äiti, Pupu ja Orava. \"Me teimme sinulle lunta!\" <br> Myyrän olo oli heti paljon parempi, koska nyt sisälläkin satoi lunta. \"Näin lumisade on kaksin verroin hauskempaa!\", se huudahti.",
             "open": false
         },
         {
@@ -135,8 +136,8 @@
         {
             "id": 20,
             "nr": 20,
-            "text": "Piirustuksia",
-            "overLay": "Tänään piirretään! Katso video ja piirrä mukana. Helppoa! <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fpr4P4ak85c\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+            "text": "Leivontapäivä",
+            "overLay": "Leivotaan joulukuusipulla! Näet ohjeen <a href='./files/joulukuusipulla.pdf' >tästä</a>  <img src='./img/joulukuusipulla-1.jpg' alt='joulukuusipulla' /><br> <br> Lähde: Kinuskikissa.fi",
             "open": false
         },
         {
@@ -148,8 +149,8 @@
         {
             "id": 22,
             "nr": 22,
-            "text": "And here we are, the first day after the Solstice",
-            "overLay": "The Wheel has turned and we are once again heading towards the light. Let us focus on growth, the coming spring, new life and abundance. Blessed be! ",
+            "text": "Tonttujumppa",
+            "overLay": "Tänään on vuorossa Tonttujumppa! Katso video ja jumppaa perässä! <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ULxDiPvQpFM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe> ",
             "open": false
         },
         {
