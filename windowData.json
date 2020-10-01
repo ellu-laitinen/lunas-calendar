@@ -17,15 +17,15 @@
         {
             "id": 3,
             "nr": 3,
-            "text": "Tämä on ihan uutta tekstiä",
-            "overLay": "iutvlyurcykeckyrvluyöbuitöit",
+            "text": "Tänään luetaan ihana tarina Pikku Hiirestä ja talven taiasta!",
+            "overLay": "Talvi oli tullut puutarhaan, ja Pikku Hiiri oli mieli maassa. Kesällä oli ollut paljon kauniita kukkia ja vihreitä lehtiä puussa. Hiiren isä halusi auttaa. 'Tiedän, mikä lohdun pian tuo.' Se kieputti valoja puiden oksiin ja vei lyhtyjä vajan luo. Isä neuvoi: 'Hae sisältä huopa ja kuumaa juotavaa.' Pikku Hiiri ihmetteli, mutta isä lupasi, että se kannattaa. Kun se palasi, pihalla rätisi nuotio ja valot välkkyivät kaikkialla. Pikku Hiiri halasi isää  ja sanoi: 'Talven taika on nyt meidän pihalla!' ",
             "open": false
         },
         {
             "id": 4,
             "nr": 4,
-            "text": "How do you know when Santa's in the room? You can sense his presents.",
-            "overLay": " <iframe width='560' height='315' src='https://www.youtube.com/embed/iCXNPimqMCs' frameborder='0' allow='accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+            "text": "Värityskuvat",
+            "overLay": "  <div className='coloring'><img width='150' height='130' alt='coloring' src='./img/coloring.jpeg'></img> <a href='./img/coloring.jpeg' download> lataa kuva</a></div> <div className='coloring'><img  width='150' height='130'  alt='coloring' src='./img/christmastree.jpg'></img> <a href='./img/christmastree.jpg' download> lataa kuva</a></div>",
             "open": false
         },
         {
@@ -91,7 +91,8 @@
         {
             "id": 14,
             "nr": 14,
-            "text": "What will fall on the lawn first? An autumn leaf or a Christmas catalog?",
+            "text": "Piparinleivontaa!",
+            "overLay": "Tänään leivotaan ja koristellaan pipareita!",
             "open": false
         },
         {
@@ -109,7 +110,8 @@
         {
             "id": 17,
             "nr": 17,
-            "text": "The main thing I want this holiday season is for someone to wake me when it's over.",
+            "text": "Joulukoristeita!",
+            "overLay": "Tänään askarrellaan joulukoristeita! ",
             "open": false
         },
         {
@@ -153,8 +155,8 @@
         {
             "id": 24,
             "nr": 24,
-            "text": "And here we are, the first day after the Solstice",
-            "overLay": "The Wheel has turned and we are once again heading towards the light. Let us focus on growth, the coming spring, new life and abundance. Blessed be! ",
+            "text": "Hyvää joulua!",
+            "overLay": "Tänään on vihdoin JOULUAATTO! ",
             "open": false
         }
     ]
