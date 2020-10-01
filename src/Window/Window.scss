@@ -9,6 +9,7 @@ cursor: pointer;
 
 .front {
     background: $front-image;
+    
     position: absolute;
     top: 0;
     z-index: 2;
@@ -38,6 +39,7 @@ cursor: pointer;
 .back {
     position: absolute;
     background: $back-image;
+   
     top: 0px;
     left: 0px;
     z-index: 1;
@@ -88,9 +90,11 @@ cursor: pointer;
 }
 
 .window-content {
-    
-        display: grid;
+    display: block;
+     
         border: solid black 1px;
+        height: 80%;
+      width: 90%;
     /*     min-width: 50%;
         min-height: 50%; */
         color: $font-color-dark;
@@ -106,6 +110,7 @@ cursor: pointer;
 
         transform: translate(-50%,-50%);
         -ms-transform: translate(-50%,-50%);   
+        overflow-y: scroll;
 }
 
 %btn-shared {
@@ -113,7 +118,7 @@ cursor: pointer;
     border-radius: 5px;
     padding: 6px;
     border: black solid 1px;
-    position: absolute;
+    
     bottom: 10px;
     right: 10px;
     font-family: "Lato";
@@ -127,11 +132,15 @@ cursor: pointer;
     &-close {
         @extend %btn-shared;
         background-color: green;
+        position: sticky;
+        margin-top: 40px;
+
     }
     &-overlay {
         @extend %btn-shared;
         background-color: #B3000C;
         font-size: small;
+        position: absolute;
     }
  
    

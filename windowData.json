@@ -51,9 +51,9 @@
         },
         {
             "id": 8,
-            "date": "Sat Sep 26 2020",
             "nr": 8,
-            "text": "What kind of motorbike does Santa ride? A Holly Davidson!",
+            "text": "Tänään luetaan tarina pingviinien luistelukisasta!",
+            "overLay": "Pietu Pingviini harjoitteli Hankikallion luistelukilpailua varten. Se liukui hitaasti jäällä, horjahti ja putosi pyrstölleen niin että tömähti.<br/> \"En ikinä opi luistelemaan yhtä hyvin kuin toiset\", Pietu huokaisi, kun isommat luitelijat kiitelivät ja kaartelivat sen ohi. \"Olen liian kömpelö.\" <br/> Kilpailu oli alkamaisillaan, ja Pietu odotti kärsivällisesti rivissä toisten luistelijoiden kanssa. Pekko Pingviini kiiti jääkentän poikki, hyppäsi korkealle ilmaan ja laskeutui täydellisesti. Yleisö huusi ja taputti riemuissaan. <br/> Seuraavaksi jäällä taituroi Pulmu Pingviini. Se syöksähteli ympäriinsä ja otti vauhtia piruettiin. Se pyöri niin vinhasti, että Pietua alkoi ihan huimata. Yleisö ihasteli henkeään pidätellen. <br/>Peppi Pingviin oli vuorossa ennen Pietua. Sen luistinten terän välkkyivät, kun se esitti ihanan jäätanssin. Lopulta oli Pietun vuoro siirtyä kaukaloon. Se asteli hermostuneena jäälle ja alkoi varovaisesti edetä kentän keskelle. Pietu koetti päästä liukuun, se vaappui puolelta toiselle. Se yritti ottaa vauhtia ja pyörähtää, mutta putosi jälleen pyrstölleen. Aina kunse yriti päästä pystyyn, sen jalat menivät alta ja se kaatui taas. Yleisö alkoi nauraa, ja Pietu tunsi olevansa ihan hölmö. Se keikkui sinne tänne, kun se yritti päästä pystyyn. <br/> \"Jatka vain, Pietu Pingviini!\", Pekko huusi yleisön joukosta. \"Esityksesi on superhieno!\", sanoi Peppi nauraen. Ja Pietuakin alkoi hymyilyttää. Ehkei se ollutkaan niin huono. Se kompuroi jaloilleen, ilmehti hassusti, ja yleisö ulvoi naurusta. Se luisteli kentän ympäri ja oli kaatuvinaan, sitten se liukui jään poikki vatsallaan. Yleisö nousi ylös taputtamaan. Ei ollut ollenkaan ikävää, että sai kaikki katsojat nauramaan. Kaikki olivat ihastuneita Pietun pelle-esitykseen! <br/> \"Hienoa, Pietu Pingviini!\", huusi yleisö, kun se kumarsi. \"Se oli upeaa! Olet Hankimäen hauskin luistelija!\"",
             "open": false
         },
         {
@@ -79,7 +79,8 @@
         {
             "id": 12,
             "nr": 12,
-            "text": "According to my kids' Christmas lists, they think this parenting gig pays pretty well.",
+            "text": "Korttiaskartelut",
+            "overLay": "Tänään askarrellaan joulukortteja!",
             "open": false
         },
         {
@@ -123,7 +124,8 @@
         {
             "id": 19,
             "nr": 19,
-            "text": "I bought my son a fridge for Christmas. – I can't wait to see his face light up when he opens it.",
+            "text": "Ulkoilupäivä!",
+            "overLay": "Tänään tehdään retki!",
             "open": false
         },
         {
