@@ -39,7 +39,7 @@
             "id": 6,
             "nr": 6,
             "text": "Herkkuja linnuille",
-            "overLay": "Tänään tehdään jouluruokaa linnuille! 1. Sulata 500 grammaa kookos- tai kasviöljypohjaista munkkirasvaa kattilassa. <br> 2. Lisää rasvaan noin litra lintujen siemensekoitusta ja sekoita. <br> 3. Täytä kakkuvuoka rasva-siemenseoksella. <br>4. Laita vuoka tasaiselle alustalle vaikkapa tarjottimelle ja pidä sitä yön yli kylmässä. <br>5. Pidä tarvittaessa vuokaa hetki kuumassa vedessä ja irrota kakku. Pujota sen ympäri vahva, leveä naru ja ripusta herkku pihapuuhun. <img alt= \"siemenkranssi puussa \" src='./img/siemenkranssi.jpg'/> ",
+            "overLay": "Tänään tehdään jouluruokaa linnuille! 1. Sulata 500 grammaa kookos- tai kasviöljypohjaista munkkirasvaa kattilassa. <br> 2. Lisää rasvaan noin litra lintujen siemensekoitusta ja sekoita. <br> 3. Täytä kakkuvuoka rasva-siemenseoksella. <br>4. Laita vuoka tasaiselle alustalle vaikkapa tarjottimelle ja pidä sitä yön yli kylmässä. <br>5. Pidä tarvittaessa vuokaa hetki kuumassa vedessä ja irrota kakku. Pujota sen ympäri vahva, leveä naru ja ripusta herkku pihapuuhun. <img alt= \"siemenkranssi puussa \" src='./img/siemenkranssi.jpg'/>  <br> <br> Lähde: https://suomenluonto.fi/uutiset/tulkaas-linnut-kakulle/",
             "open": false
         },
         {
@@ -73,7 +73,8 @@
         {
             "id": 11,
             "nr": 11,
-            "text": "What goes 'oh oh oh'? Santa walking backwards.",
+            "text": "Hyviä tekoja",
+            "overLay": "Tänään on hyvien tekojen päivä. Mieti, ketä sinä haluaisit auttaa ja ilahduttaa? Autatko vanhempia kattamaan ja siivoamaan ruokapöydän? Järjesteletkö omat vaatteet ja lelut omille paikoilleen? Tai veisitkö roskat? Kerro perheenjäsenillsei, kuinka haluaisit auttaa ja ilahduttaa heitä tänään!",
             "open": false
         },
         {
@@ -87,7 +88,7 @@
             "id": 13,
             "nr": 13,
             "text": "Tänään luetaan tarina perukarhun talviretkestä",
-            "overLay": "Pesukarhu ystävineen oli peuhannut lumessa koko aamun. <br/> \"Tein teille voileipiä\", ilmoitti Pesukarhyn äiti kotiovelta. <br> \"Vien ne puutarhaan ja syön myöhemmin\", Pesukarhu vastasi. <br> \"On liian kylmä syödä ulkona\", äiti sanoi, mutta Pesukarhu ei kuunnellut. Puutarhassa Pesukarhu sanoi: \"Rakennetaan iglu ja syödään siellä.\" <br> Sen ystävät tekivät lumitiiliä ja auttoivat Pesukarhua kasaamaan ne päällekkäin. Kun iglu oli valmis, ne kaikki ryömivät sisälle. Yhtäkkiä niillä oli kurniva nälkä. Pesukarhu haki voileivät sisälle igluun. <br> \"Leiväthän ovat umpijäässä\", valitti Kurre. \"Mehu on niin kylmää, että hampaita vihloo\", voihki Mäyrä. Kaikilla kolmella oli edelleen kova nälkä. <br> Pesukarhun äiti tuli katsomaan ystävyksiä. <br> \"Tulkaa sisälle, minulla on teille yllätys\", se sanoi. <br> Äiti oli rakentanut peitoista, tuoleista ja tyynyistä linnan. <br> \"Hurraa!\", huusi Pesukarhu, ja ne kaikki syöksyivät sisälle. <br> \"Paras paikka talviretkelle on sisällä\", Pesukarhun äiti sanoi hymyillen. Ystävyksen konttasivat peittojen alle, ja siellä niitä odotti lisää voileipiä ja mehua. \"Kiitos, äiti\", Pesukarhu sanoi juodessaan mehua. \"Taidat olla oikeassa.\"",
+            "overLay": "Pesukarhu ystävineen oli peuhannut lumessa koko aamun. <br/> \"Tein teille voileipiä\", ilmoitti Pesukarhun äiti kotiovelta. <br> \"Vien ne puutarhaan ja syön myöhemmin\", Pesukarhu vastasi. <br> \"On liian kylmä syödä ulkona\", äiti sanoi, mutta Pesukarhu ei kuunnellut. Puutarhassa Pesukarhu sanoi: \"Rakennetaan iglu ja syödään siellä.\" <br> Sen ystävät tekivät lumitiiliä ja auttoivat Pesukarhua kasaamaan ne päällekkäin. Kun iglu oli valmis, ne kaikki ryömivät sisälle. Yhtäkkiä niillä oli kurniva nälkä. Pesukarhu haki voileivät sisälle igluun. <br> \"Leiväthän ovat umpijäässä\", valitti Kurre. \"Mehu on niin kylmää, että hampaita vihloo\", voihki Mäyrä. Kaikilla kolmella oli edelleen kova nälkä. <br> Pesukarhun äiti tuli katsomaan ystävyksiä. <br> \"Tulkaa sisälle, minulla on teille yllätys\", se sanoi. <br> Äiti oli rakentanut peitoista, tuoleista ja tyynyistä linnan. <br> \"Hurraa!\", huusi Pesukarhu, ja ne kaikki syöksyivät sisälle. <br> \"Paras paikka talviretkelle on sisällä\", Pesukarhun äiti sanoi hymyillen. Ystävyksen konttasivat peittojen alle, ja siellä niitä odotti lisää voileipiä ja mehua. \"Kiitos, äiti\", Pesukarhu sanoi juodessaan mehua. \"Taidat olla oikeassa.\"",
             "open": false
         },
         {
@@ -100,7 +101,8 @@
         {
             "id": 15,
             "nr": 15,
-            "text": "What do elves learn in school? The Elf-abet!",
+            "text": "",
+            "overLay": "",
             "open": false
         },
         {
@@ -119,7 +121,8 @@
         {
             "id": 18,
             "nr": 18,
-            "text": "Remember, children. The best way to get a puppy for Christmas is to beg for a baby brother.",
+            "text": "Kiitollisuus",
+            "overLay": "Tänään mietitään asioita, joista olemme kiitollisia. Oletko saanut tällä viikolla lempiruokaasi? Opitko koulussa jotain uutta? Kävitkö luistelemassa tai jossain kivassa paikassa? Mieti 5 asiaa, joista sinä olet kiitollinen. Voit kirjoittaa ne paperille, jos haluat. Keskustele äidin tai isän, isovanhemman, sisaruksen tai muun sukulaisen kanssa siitä, mistä olette kiitollisia.",
             "open": false
         },
         {
