@@ -95,8 +95,9 @@ position: relative;
     display: grid;
      
         border: solid $color-dark 1px;
-      height: 50vh;
-      width: 90%;
+      max-height: 70%;
+      width: 60%;
+      max-width: 90%;
     /*     min-width: 50%;
         min-height: 50%; */
         color: $color-dark;
@@ -135,8 +136,13 @@ position: relative;
         @extend %btn-shared;
         background-color: green;
     margin-top: 2rem;
+    margin-bottom: 2rem;
         width: 15vh;
         height: 5vh;
+
+        &:hover {
+            background-color: rgb(0, 90, 0);
+        }
 
     }
     &-overlay {
@@ -145,6 +151,12 @@ position: relative;
         bottom: 10px;
         right: 10px;
         position: absolute;
+        padding: 5px;
+
+        &:hover {
+            background-color: #91010b;
+
+        }
     }
  
    
@@ -164,3 +176,10 @@ img {
 #overlayText {
  
 }
+
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(138, 0, 0);
+  }

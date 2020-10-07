@@ -115,7 +115,7 @@
         {
             "id": 15,
             "nr": 15,
-            "text": "Lumihiutaleet",
+            "text": "Lumihiutaleita!",
             "overLay": "Tänään askarrellaan lumihiutaleita. <a href='./files/Lumihiutaleet.pdf' target='_blank' rel='noopener noreferrer' >Tästä</a> voit katsoa esimerkkejä, tai voit keksiä ihan omia!",
             "img": "/img/snowflakes.jpg",
             "open": false
@@ -123,7 +123,7 @@
         {
             "id": 16,
             "nr": 16,
-            "text": "Kiitollisuus",
+            "text": "Kiitollisuus ",
             "overLay": "Tänään mietitään asioita, joista olemme kiitollisia. Oletko saanut tällä viikolla lempiruokaasi? Opitko koulussa jotain uutta? Kävitkö luistelemassa tai jossain kivassa paikassa? Mieti 5 asiaa, joista sinä olet kiitollinen. Voit kirjoittaa ne paperille, jos haluat. Keskustele sitten äidin tai isän, isovanhemman, sisaruksen tai muun sukulaisen kanssa siitä, mistä olette kiitollisia.",
             "img": "",
             "open": false
@@ -132,7 +132,7 @@
             "id": 17,
             "nr": 17,
             "text": "Tänään askarrellaan joulukuusenkoristeita! ",
-            "overLay": "<p> Tähän tarvitset: valkoista liimaa (esim. Erikeeper), villalankaa, nuppineuloja, piparimuotteja sekä alustan johon nuppineulat saa kiinni, esim. styroxia. </p> <br/> Löydät ohjeen <a href=\"https://www.youtube.com/watch?v=Cm0iHUY7Iog\" target='_blank' ref='noopener noreferrer'> YouTubesta </a> ja <a href=\"https://onelittleproject.com/how-to-make-wrapped-yarn-ornaments/\" target='_blank' ref='noopener noreferrer'> täältä. </a> ",
+            "overLay": "Tähän tarvitset:<ul><li>valkoista liimaa, esim. Erikeeper</li> <li>villalankaa</li><li>nuppineuloja</li><li>piparimuotteja</li> alusta johon nuppineulat saa kiinni, esim. styroxia</ul> <br/> Löydät ohjeen <a href=\"https://www.youtube.com/watch?v=Cm0iHUY7Iog\" target='_blank' ref='noopener noreferrer'> YouTubesta </a> ja <a href=\"https://onelittleproject.com/how-to-make-wrapped-yarn-ornaments/\" target='_blank' ref='noopener noreferrer'> täältä. </a> ",
             "img": "/img/ornaments.jpg",
             "open": false
         },

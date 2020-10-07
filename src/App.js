@@ -93,15 +93,11 @@ function App() {
         <h1 className="title">Lasten oma joulukalenteri</h1>
       </div>
       <div className="snowflakes" aria-hidden="true">
+
         <div className="snowflake">
           ❅
   </div>
-        <div className="snowflake">
-          ❅
-  </div>
-        <div className="snowflake">
-          ❆
-  </div>
+
         <div className="snowflake">
           ❄
   </div>
@@ -117,9 +113,7 @@ function App() {
         <div className="snowflake">
           ❅
   </div>
-        <div className="snowflake">
-          ❆
-  </div>
+
         <div className="snowflake">
           ❄
   </div>
