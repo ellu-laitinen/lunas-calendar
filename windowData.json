@@ -92,8 +92,8 @@
             "id": 12,
             "nr": 12,
             "text": "Korttiaskartelua!",
-            "overLay": "Tänään askarrellaan joulukortteja!",
-            "img": "",
+            "overLay": "Tänään askarrellaan joulukortteja! Löydät monta kivaa ideaa <a href='https://www.meillakotona.fi/artikkelit/joulukortti' target='_blank' rel='noopener noreferrer'> täältä!</a>. Mikä on sinun suosikkisi?",
+            "img": "https://source.unsplash.com/UVPrs2vyXf0",
             "open": false
         },
         {
