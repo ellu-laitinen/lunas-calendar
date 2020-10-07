@@ -52,7 +52,7 @@
             "id": 7,
             "nr": 7,
             "text": "Tänään herkutellaan kaakaolla!",
-            "overLay": "Tehdään ihanaa erikoiskaakaota! <br> <br>Tarvitset <ul> <li> 0,5 l maitoa </li> <li> 2 rkl tummaa kaakaojauhetta </li><li> 80g tummaa suklaata raastettuna </li><li> mausteita oman maun mukaan (kaneli, chili, piparminttu...) </li></ul> <br> Koko resepti löytyy <a href='https://lejos.fi/reseptit/maailman-paras-kaakao/' target='_blank' rel='noopener noreferrer'>täältä! </a>",
+            "overLay": "Tehdään ihanaa erikoiskaakaota! <br> <br>Tarvitset <ul> <li> 0,5 l maitoa </li> <li> 2 rkl tummaa kaakaojauhetta </li><li> 80g tummaa suklaata raastettuna </li><li> mausteita oman maun mukaan (kaneli, chili, piparminttu...) </li> <li>Koristeita, esim. vaahtokarkkeja ja kermavaahtoa</li></ul> <br> Koko resepti löytyy <a href='https://lejos.fi/reseptit/maailman-paras-kaakao/' target='_blank' rel='noopener noreferrer'>täältä! </a>",
             "img": "https://source.unsplash.com/KpbcO3EJbFM",
             "open": false
         },
@@ -68,15 +68,15 @@
             "id": 9,
             "nr": 9,
             "text": "Tänään on leffapäivä!",
-            "overLay": "Pidetään leffailta! Mitä elokuvaa teillä katsotaan? Tässä hyviä vaihtoehtoja: <img width= '200' height='350' src='./img/xmas18.jpg' />",
-            "img": "https://source.unsplash.com/TFRezw7pQwI",
+            "overLay": "Pidetään leffailta! Mitä elokuvaa teillä katsotaan? Tässä hyviä vaihtoehtoja: <br> <h3> Viisi legendaa</h3>  <img width= '200' height='300' src='https://cdn3.movieweb.com/i/movie/kMQM2CqKJbRTshW9cJdXeqq4hFEoBK/1000:100/Rise-Of-The-Guardians.jpg' <br> <br> <h3>Frozen</h3><img width= '200' height='300' src='https://upload.wikimedia.org/wikipedia/fi/thumb/c/cd/Frozen_huurteinen_seikkailu.jpg/250px-Frozen_huurteinen_seikkailu.jpg' /> <br> <h3> Artturi Joulu - Joulupukin poika</h3> <img width='200' height='300' src='https://upload.wikimedia.org/wikipedia/fi/b/b7/Arthurin_joulu.jpeg' />",
+            "img": "",
             "open": false
         },
         {
             "id": 10,
             "nr": 10,
-            "text": "Piirustuksia",
-            "overLay": "Tänään piirretään! Katso video <a href='https://www.youtube.com/fpr4P4ak85c' target='_blank' rel='noopener noreferrer'> YouTubesta </a> ja piirrä mukana. Helppoa!",
+            "text": "Piirustuspäivä!",
+            "overLay": "Tänään piirretään jouluisia kuvia! Katso video <a href='https://www.youtube.com/fpr4P4ak85c' target='_blank' rel='noopener noreferrer'> YouTubesta </a> ja piirrä mukana. Helppoa!",
             "img": "https://source.unsplash.com/l3N9Q27zULw",
             "open": false
         },
@@ -84,14 +84,14 @@
             "id": 11,
             "nr": 11,
             "text": "Hyviä tekoja",
-            "overLay": "Tänään on hyvien tekojen päivä. Mieti, ketä sinä haluaisit auttaa ja ilahduttaa? Autatko vanhempia kattamaan ja siivoamaan ruokapöydän? Järjesteletkö omat vaatteet ja lelut omille paikoilleen? Tai veisitkö roskat? Kerro perheenjäsenillsei, kuinka haluaisit auttaa ja ilahduttaa heitä tänään!",
-            "img": "",
+            "overLay": "Tänään on hyvien tekojen päivä. Mieti, ketä sinä haluaisit auttaa ja ilahduttaa? Autatko vanhempia kattamaan ja siivoamaan ruokapöydän? Järjesteletkö omat vaatteet ja lelut omille paikoilleen? Tai veisitkö roskat? Kerro perheenjäsenillesi, kuinka haluaisit auttaa ja ilahduttaa heitä tänään!",
+            "img": "https://source.unsplash.com/jcc8sxK2Adw",
             "open": false
         },
         {
             "id": 12,
             "nr": 12,
-            "text": "Korttiaskartelut",
+            "text": "Korttiaskartelua!",
             "overLay": "Tänään askarrellaan joulukortteja!",
             "img": "",
             "open": false
@@ -100,7 +100,7 @@
             "id": 13,
             "nr": 13,
             "text": "Tänään luetaan tarina pesukarhun talviretkestä",
-            "overLay": "Pesukarhu ystävineen oli peuhannut lumessa koko aamun. <br/> \"Tein teille voileipiä\", ilmoitti Pesukarhun äiti kotiovelta. <br> \"Vien ne puutarhaan ja syön myöhemmin\", Pesukarhu vastasi. <br> \"On liian kylmä syödä ulkona\", äiti sanoi, mutta Pesukarhu ei kuunnellut. Puutarhassa Pesukarhu sanoi: \"Rakennetaan iglu ja syödään siellä.\" <br> Sen ystävät tekivät lumitiiliä ja auttoivat Pesukarhua kasaamaan ne päällekkäin. Kun iglu oli valmis, ne kaikki ryömivät sisälle. Yhtäkkiä niillä oli kurniva nälkä. Pesukarhu haki voileivät sisälle igluun. <br> \"Leiväthän ovat umpijäässä\", valitti Kurre. \"Mehu on niin kylmää, että hampaita vihloo\", voihki Mäyrä. Kaikilla kolmella oli edelleen kova nälkä. <br> Pesukarhun äiti tuli katsomaan ystävyksiä. <br> \"Tulkaa sisälle, minulla on teille yllätys\", se sanoi. <br> Äiti oli rakentanut peitoista, tuoleista ja tyynyistä linnan. <br> \"Hurraa!\", huusi Pesukarhu, ja ne kaikki syöksyivät sisälle. <br> \"Paras paikka talviretkelle on sisällä\", Pesukarhun äiti sanoi hymyillen. Ystävyksen konttasivat peittojen alle, ja siellä niitä odotti lisää voileipiä ja mehua. \"Kiitos, äiti\", Pesukarhu sanoi juodessaan mehua. \"Taidat olla oikeassa.\"",
+            "overLay": "Pesukarhu ystävineen oli peuhannut lumessa koko aamun. <br/> \"Tein teille voileipiä\", ilmoitti Pesukarhun äiti kotiovelta. <br> \"Vien ne puutarhaan ja syön myöhemmin\", Pesukarhu vastasi. <br> \"On liian kylmä syödä ulkona\", äiti sanoi, mutta Pesukarhu ei kuunnellut. Puutarhassa Pesukarhu sanoi: <br> \"Rakennetaan iglu ja syödään siellä.\" <br> Sen ystävät tekivät lumitiiliä ja auttoivat Pesukarhua kasaamaan ne päällekkäin. <br> <br> Kun iglu oli valmis, ne kaikki ryömivät sisälle. Yhtäkkiä niillä oli kurniva nälkä. Pesukarhu haki voileivät sisälle igluun. <br> \"Leiväthän ovat umpijäässä\", valitti Kurre. <br> \"Mehu on niin kylmää, että hampaita vihloo\", voihki Mäyrä. Kaikilla kolmella oli edelleen kova nälkä. <br> Pesukarhun äiti tuli katsomaan ystävyksiä. <br> \"Tulkaa sisälle, minulla on teille yllätys\", se sanoi. <br> Äiti oli rakentanut peitoista, tuoleista ja tyynyistä linnan. <br> \"Hurraa!\", huusi Pesukarhu, ja ne kaikki syöksyivät sisälle. <br> \"Paras paikka talviretkelle on sisällä\", Pesukarhun äiti sanoi hymyillen. Ystävykset konttasivat peittojen alle, ja siellä niitä odotti lisää voileipiä ja mehua. <br> \"Kiitos, äiti\", Pesukarhu sanoi juodessaan mehua. \"Taidat olla oikeassa.\"",
             "img": "",
             "open": false
         },
@@ -140,7 +140,7 @@
             "id": 18,
             "nr": 18,
             "text": "Tänään luetaan tarina siitä, kun Myyrä vilustui",
-            "overLay": "Talvi oli tullut, ja Myyrä odotti lunta malttamattomana. Se meni joka päivä ulos ja katseli taivaalle. Ulkona tuuli ja satoi, mutta lunta ei kuulunut. <br> \"Tule sisälle\", sanoi Myyrän äiti, \"muuten sinä vilustut.\" Sitten eräänä päivänä Myyrä hesäri ja veti verhot auki. \"Nyt sataa lunta!\", se hihkaisi, mutta sen ääni oli vähän käheä. Myyrän kurkku oli kipeä ja sen päätä pakotti. Yhtäkkiä se aivasti kuuluvasti. Atsuu! Myyrä oli vilustunut. Alakerrassa soi ovikello. Myyrän ystävät olivat tulleet hakemaan sitä. \"Lunta sataa!\", huudahti Pupu. \"Tule ulos leikkimään.\" Myyrä tuhisi  ja puhisi ja siltä pääsi hurja aivastus. \"En voi\", se sanoi surkeana. \"Olen vilustunut.\" <br> Myyrän äiti peitteli sen vuoteeseen. \"Ihan epäreilua\", Myyrä niiskutti surullisena. \"Minäkin haluan lumeen leikkimään.\" Siltä pääsi vielä iso aivastus - \"Atsuu!\" - ja se painui peiton alle nukkumaan. Silloin Myyrän äiti sai ajatuksen.<br> \"Tiedän, miten Myyrä pääsee lumeen leikkimään\", äiti sanoi Pupulle ja Oravalle. Äidillä oli paljon valkoista silkkipaperia. \"Ottakaa mallia\", se sanoi ja laittoi pöydälle paperia ja sakset. Toiset kerääntyivät pöydän ympärille, ja Myyrän äiti antoi niille ohjeet. <br> Kun Myyrä heräsi, sen ympärillä kieppui paperisia lumihiutaleita. \"Yllätys!\", huusivat äiti, Pupu ja Orava. \"Me teimme sinulle lunta!\" <br> Myyrän olo oli heti paljon parempi, koska nyt sisälläkin satoi lunta. \"Näin lumisade on kaksin verroin hauskempaa!\", se huudahti.",
+            "overLay": "Talvi oli tullut, ja Myyrä odotti lunta malttamattomana. Se meni joka päivä ulos ja katseli taivaalle. Ulkona tuuli ja satoi, mutta lunta ei kuulunut. <br> \"Tule sisälle\", sanoi Myyrän äiti, \"muuten sinä vilustut.\" <br> Sitten eräänä päivänä Myyrä heräsi ja veti verhot auki. <br> \"Nyt sataa lunta!\", se hihkaisi, mutta sen ääni oli vähän käheä. Myyrän kurkku oli kipeä ja sen päätä pakotti. Yhtäkkiä se aivasti kuuluvasti. Atsuu! Myyrä oli vilustunut. Alakerrassa soi ovikello. Myyrän ystävät olivat tulleet hakemaan sitä. <br> \"Lunta sataa!\", huudahti Pupu. \"Tule ulos leikkimään.\" <br> Myyrä tuhisi  ja puhisi ja siltä pääsi hurja aivastus. <br> \"En voi\", se sanoi surkeana. \"Olen vilustunut.\" <br><br> Myyrän äiti peitteli sen vuoteeseen. <br> \"Ihan epäreilua\", Myyrä niiskutti surullisena. \"Minäkin haluan lumeen leikkimään.\"  <br> Siltä pääsi vielä iso aivastus - \"Atsuu!\" - ja se painui peiton alle nukkumaan. Silloin Myyrän äiti sai ajatuksen.<br> \"Tiedän, miten Myyrä pääsee lumeen leikkimään\", äiti sanoi Pupulle ja Oravalle. Äidillä oli paljon valkoista silkkipaperia. <br> \"Ottakaa mallia\", se sanoi ja laittoi pöydälle paperia ja sakset. Toiset kerääntyivät pöydän ympärille, ja Myyrän äiti antoi niille ohjeet. <br><br> Kun Myyrä heräsi, sen ympärillä kieppui paperisia lumihiutaleita. <br> \"Yllätys!\", huusivat äiti, Pupu ja Orava. \"Me teimme sinulle lunta!\" <br> Myyrän olo oli heti paljon parempi, koska nyt sisälläkin satoi lunta. <br> \"Näin lumisade on kaksin verroin hauskempaa!\", se huudahti.",
             "img": "",
             "open": false
         },
@@ -148,7 +148,7 @@
             "id": 19,
             "nr": 19,
             "text": "Ulkoilupäivä!",
-            "overLay": "Tänään tehdään retki! Jos ilma on kovin huono, voi myös tehdä leikisti retken kotona: rakenna maja tai pystytä pieni teltta olohuoneeseen!",
+            "overLay": "Tänään tehdään retki! Jos ilma on kovin huono, voi myös tehdä leikisti retken kotona: rakenna maja tai pystytä pieni teltta olohuoneeseen ja tee itsellesi pienet retkiexäät!",
             "img": "https://source.unsplash.com/-8X4ymvQIfU",
             "open": false
         },

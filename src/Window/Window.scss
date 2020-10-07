@@ -4,7 +4,7 @@
 .window-background {
     padding-top: 100%;
 position: relative;
-cursor: pointer;
+
 }
 
 .front {
@@ -13,6 +13,7 @@ cursor: pointer;
     position: absolute;
     top: 0;
     z-index: 2;
+    cursor: pointer;
 
 }
 
@@ -29,6 +30,7 @@ cursor: pointer;
         background: rgba(0, 0, 0, 0.7);
         font-weight: 700;
         font-size: 4rem;
+    
     }
 
     .front.open {
@@ -39,7 +41,7 @@ cursor: pointer;
 .back {
     position: absolute;
     background: $back-image;
-   
+   cursor: pointer;
     top: 0px;
     left: 0px;
     z-index: 1;
@@ -98,7 +100,7 @@ cursor: pointer;
     /*     min-width: 50%;
         min-height: 50%; */
         color: $color-dark;
-        background: rgba(200, 247, 197, 0.9);
+        background: rgb(84, 168, 78);
         border-radius: 5px;
         box-shadow: 0 0 5px $color-dark; 
         position: absolute;    
@@ -120,13 +122,11 @@ cursor: pointer;
    // height: 3vh;
     border: $color-dark solid 1px;
     padding: 4px;
-    
-    
-  
     font-family: "Lato";
     font-weight: lighter;  
     font-size: large;
     color: $color-light;
+    cursor: pointer;
 
 }
 
@@ -144,7 +144,6 @@ cursor: pointer;
         background-color: #B3000C;
         bottom: 10px;
         right: 10px;
-        
         position: absolute;
     }
  
