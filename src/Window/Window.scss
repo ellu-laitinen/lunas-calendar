@@ -93,7 +93,7 @@ cursor: pointer;
     display: grid;
      
         border: solid $color-dark 1px;
-       height: auto;
+      height: 50vh;
       width: 90%;
     /*     min-width: 50%;
         min-height: 50%; */
@@ -154,6 +154,12 @@ cursor: pointer;
 #img {
     border: 2px $color-dark solid;
     width: 35vh;
+}
+
+img {
+    border: solid 1px black;
+    margin-top: 1rem;
+    margin-left: 1rem;
 }
 
 #overlayText {

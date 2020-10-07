@@ -90,7 +90,7 @@ function App() {
   return (
     <>
       <div>
-        <h1 className="title">Tarinakalenteri</h1>
+        <h1 className="title">Lasten oma joulukalenteri</h1>
       </div>
       <div className="snowflakes" aria-hidden="true">
         <div className="snowflake">

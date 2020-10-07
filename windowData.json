@@ -3,17 +3,17 @@
         {
             "id": 1,
             "nr": 1,
-            "text": "Tarina alkaa",
-            "overLay": "A group of little Faeries huddled in their home deep under the roots...",
+            "text": "Tänään on joulukuun ensimmäinen päivä!",
+            "overLay": "",
             "img": "",
             "open": false
         },
         {
             "id": 2,
             "nr": 2,
-            "text": "Tänään askarrellaan joulukoristeita! ",
-            "overLay": "<p> Tähän tarvitset: valkoista liimaa (esim. Erikeeper), villalankaa, nuppineuloja, piparimuotteja sekä alustan johon nuppineulat saa kiinni, esim. styroxia. </p> <br/> Löydät ohjeen <a href=\"https://www.youtube.com/watch?v=Cm0iHUY7Iog\" target='_blank' ref='noopener noreferrer'> YouTubesta </a> ja <a href=\"https://onelittleproject.com/how-to-make-wrapped-yarn-ornaments/\" target='_blank' ref='noopener noreferrer'> täältä. </a> ",
-            "img": "/img/ornaments.jpg",
+            "text": "Joulukoristeita!",
+            "overLay": "Tänään askarrellaan joulukoristeita kotiin! ",
+            "img": "",
             "open": false
         },
         {
@@ -27,8 +27,8 @@
         {
             "id": 4,
             "nr": 4,
-            "text": "Värityskuvat",
-            "overLay": "  <div className='coloring'><img width='150' height='130' alt='coloring' src='./img/coloring.jpeg'></img> <a href='./img/coloring.jpeg' download> lataa kuva</a></div> <div className='coloring'><img  width='150' height='130'  alt='coloring' src='./img/christmastree.jpg'></img> <a href='./img/christmastree.jpg' download> lataa kuva</a></div>",
+            "text": "Värityskuvia!",
+            "overLay": " Tänään väritetään jouluisia kuvia. Lataa kuvat niin pääset printtaamaan ne. <br> <br>  <img width= '300' height='400' src='./img/coloring2.jpg'/> <a href='./img/coloring2.jpg' download> lataa kuva</a> <img width= '300' height='400'  alt='coloring' src='./img/christmastree.jpg'/> <a href='./img/christmastree.jpg' download> lataa kuva</a> <img width= '400' height='300' src='./img/coloring3.jpg'/> <a href='./img/coloring3.jpg' download> lataa kuva</a>",
             "img": "",
             "open": false
         },
@@ -99,7 +99,7 @@
         {
             "id": 13,
             "nr": 13,
-            "text": "Tänään luetaan tarina perukarhun talviretkestä",
+            "text": "Tänään luetaan tarina pesukarhun talviretkestä",
             "overLay": "Pesukarhu ystävineen oli peuhannut lumessa koko aamun. <br/> \"Tein teille voileipiä\", ilmoitti Pesukarhun äiti kotiovelta. <br> \"Vien ne puutarhaan ja syön myöhemmin\", Pesukarhu vastasi. <br> \"On liian kylmä syödä ulkona\", äiti sanoi, mutta Pesukarhu ei kuunnellut. Puutarhassa Pesukarhu sanoi: \"Rakennetaan iglu ja syödään siellä.\" <br> Sen ystävät tekivät lumitiiliä ja auttoivat Pesukarhua kasaamaan ne päällekkäin. Kun iglu oli valmis, ne kaikki ryömivät sisälle. Yhtäkkiä niillä oli kurniva nälkä. Pesukarhu haki voileivät sisälle igluun. <br> \"Leiväthän ovat umpijäässä\", valitti Kurre. \"Mehu on niin kylmää, että hampaita vihloo\", voihki Mäyrä. Kaikilla kolmella oli edelleen kova nälkä. <br> Pesukarhun äiti tuli katsomaan ystävyksiä. <br> \"Tulkaa sisälle, minulla on teille yllätys\", se sanoi. <br> Äiti oli rakentanut peitoista, tuoleista ja tyynyistä linnan. <br> \"Hurraa!\", huusi Pesukarhu, ja ne kaikki syöksyivät sisälle. <br> \"Paras paikka talviretkelle on sisällä\", Pesukarhun äiti sanoi hymyillen. Ystävyksen konttasivat peittojen alle, ja siellä niitä odotti lisää voileipiä ja mehua. \"Kiitos, äiti\", Pesukarhu sanoi juodessaan mehua. \"Taidat olla oikeassa.\"",
             "img": "",
             "open": false
@@ -124,16 +124,16 @@
             "id": 16,
             "nr": 16,
             "text": "Kiitollisuus",
-            "overLay": "<div>Tänään mietitään asioita, joista olemme kiitollisia. Oletko saanut tällä viikolla lempiruokaasi?</div> Opitko koulussa jotain uutta? Kävitkö luistelemassa tai jossain kivassa paikassa? Mieti 5 asiaa, joista sinä olet kiitollinen. Voit kirjoittaa ne paperille, jos haluat. Keskustele äidin tai isän, isovanhemman, sisaruksen tai muun sukulaisen kanssa siitä, mistä olette kiitollisia.",
+            "overLay": "Tänään mietitään asioita, joista olemme kiitollisia. Oletko saanut tällä viikolla lempiruokaasi? Opitko koulussa jotain uutta? Kävitkö luistelemassa tai jossain kivassa paikassa? Mieti 5 asiaa, joista sinä olet kiitollinen. Voit kirjoittaa ne paperille, jos haluat. Keskustele sitten äidin tai isän, isovanhemman, sisaruksen tai muun sukulaisen kanssa siitä, mistä olette kiitollisia.",
             "img": "",
             "open": false
         },
         {
             "id": 17,
             "nr": 17,
-            "text": "Joulukoristeita!",
-            "overLay": "Tänään askarrellaan joulukoristeita joulukuuseen! ",
-            "img": "",
+            "text": "Tänään askarrellaan joulukuusenkoristeita! ",
+            "overLay": "<p> Tähän tarvitset: valkoista liimaa (esim. Erikeeper), villalankaa, nuppineuloja, piparimuotteja sekä alustan johon nuppineulat saa kiinni, esim. styroxia. </p> <br/> Löydät ohjeen <a href=\"https://www.youtube.com/watch?v=Cm0iHUY7Iog\" target='_blank' ref='noopener noreferrer'> YouTubesta </a> ja <a href=\"https://onelittleproject.com/how-to-make-wrapped-yarn-ornaments/\" target='_blank' ref='noopener noreferrer'> täältä. </a> ",
+            "img": "/img/ornaments.jpg",
             "open": false
         },
         {
@@ -181,7 +181,7 @@
             "nr": 23,
             "text": "Huomenna on jouluaatto, joten tänään siivotaan koti valmiiksi!",
             "overLay": "Laita kivaa musiikkia soimaan, tonttulakki päähän ja siivoa vaikka oma huone tai olohuone valmiiksi jouluaattoa varten! Voit myös miettiä, onko sinulla sellaisia leluja tai vaatteita joita et enää tarvitse, ja jotka voisi antaa pois.",
-            "img": "",
+            "img": "https://source.unsplash.com/cpIgNaazQ6w",
             "open": false
         },
         {

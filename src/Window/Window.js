@@ -25,7 +25,7 @@ const Window = ({ windowData: { id, date, nr, text, img, open, overLay }, handle
         <div id="overlay" >
             <div className="window-content">
                 <p className="popup-txt" id="overlayText"></p>
-                <img className="image" id="img" />
+                <img className="image" id="img" alt="" />
                 <button className="btn btn-close" onClick={overlayOff}>sulje</button>
             </div>
 
