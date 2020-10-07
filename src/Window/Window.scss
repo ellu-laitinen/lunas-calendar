@@ -21,7 +21,7 @@ cursor: pointer;
         align-items: center;
         justify-content: center;
         font-family: "Lato";
-        color: $font-color-light;
+        color: $color-light;
         padding: 20px;
         width: 50%;
         height: 50%;
@@ -53,7 +53,7 @@ cursor: pointer;
 
   .back p {
         font-family: "Lato";
-        color: $font-color-dark;
+        color: $color-dark;
         padding: 10px;
         font-size: 1.4rem;
         text-align: center;
@@ -70,7 +70,7 @@ cursor: pointer;
     transition: all .5s;
     transform-style: preserve-3d;
     border-radius: 20px;
-    border: 1px solid #fff;
+    border: 1px solid $color-light;
     box-sizing: border-box;
  
 }
@@ -90,17 +90,17 @@ cursor: pointer;
 }
 
 .window-content {
-    display: block;
+    display: grid;
      
-        border: solid black 1px;
+        border: solid $color-dark 1px;
         height: 80%;
       width: 90%;
     /*     min-width: 50%;
         min-height: 50%; */
-        color: $font-color-dark;
+        color: $color-dark;
         background: rgba(200, 247, 197, 0.9);
         border-radius: 5px;
-        box-shadow: 0 0 5px black; 
+        box-shadow: 0 0 5px $color-dark; 
         position: absolute;    
         padding: 2rem;
         top: 50%;
@@ -117,14 +117,13 @@ cursor: pointer;
    
     border-radius: 5px;
     padding: 6px;
-    border: black solid 1px;
+    border: $color-dark solid 1px;
     
-    bottom: 10px;
-    right: 10px;
+  
     font-family: "Lato";
     font-weight: lighter;  
     font-size: large;
-    color: $font-color-light;
+    color: $color-light;
 
 }
 
@@ -132,16 +131,27 @@ cursor: pointer;
     &-close {
         @extend %btn-shared;
         background-color: green;
-        position: sticky;
-        margin-top: 40px;
+    
+        width: 15vh;
 
     }
     &-overlay {
         @extend %btn-shared;
         background-color: #B3000C;
+        bottom: 10px;
+        right: 10px;
         font-size: small;
         position: absolute;
     }
  
    
+}
+
+#img {
+    border: 2px $color-dark solid;
+    width: 35vh;
+}
+
+#overlayText {
+ 
 }

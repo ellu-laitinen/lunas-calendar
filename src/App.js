@@ -3,7 +3,7 @@ import axios from 'axios';
 
 // import { createCalendar } from './helpers'
 import Window from './Window/Window';
-import './App.css'
+import './App.scss'
 
 const shuffle = a => {
   for (let i = a.length - 1; i > 0; i--) {
@@ -19,29 +19,36 @@ function App() {
   const [window, setWindow] = useState([])
 
 
+
+
+  useEffect(() => {
+    let calendar = [];
+    if (localStorage.calendar !== undefined) {
+      calendar = JSON.parse(localStorage.calendar)
+    } else {
+      axios.get("http://localhost:3001/windows").then((response) => {
+        const windows = response.data
+        setWindow(shuffle(windows))
+
+      }
+      )
+      calendar = window;
+    };
+    setWindow(calendar)
+
+
+  }, [])
+
   useEffect(() => {
     window.length && localStorage.setItem('calendar', JSON.stringify(window));
   }, [window])
-
-
-  useEffect(() => {
-    axios.get("http://localhost:3001/windows").then((response) => {
-      const windows = response.data
-      setWindow(shuffle(windows))
-      const calendar = localStorage.calendar
-        ? JSON.parse(localStorage.calendar)
-        : window;
-
-      setWindow(calendar);
-    })
-  }, [])
 
 
   /*  useEffect(() => {
      const calendar = localStorage.calendar
        ? JSON.parse(localStorage.calendar)
        : window;
- 
+   
      setWindow(calendar);
    }, []);
   */

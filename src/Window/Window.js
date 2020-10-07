@@ -1,9 +1,11 @@
 import React from 'react';
 import './Window.scss'
 
-const overlayOn = (overLay) => {
-    document.getElementById("overlay").style.display = "block";
+const overlayOn = (overLay, img) => {
+    document.getElementById("overlay").style.display = "grid";
     document.getElementById("overlayText").innerHTML = overLay;
+    document.getElementById("img").src = img;
+
 }
 
 const overlayOff = () => {
@@ -18,11 +20,12 @@ const Window = ({ windowData: { id, date, nr, text, img, open, overLay }, handle
         </div>
         <div className={open ? "back window open" : "window back"}>
             <p onClick={() => handleClick(id, date)}>{text}</p>
-            <button className="btn btn-overlay" onClick={() => overlayOn(overLay)}>Näytä koko luukku!</button>
+            <button className="btn btn-overlay" onClick={() => overlayOn(overLay, img)}>Näytä koko luukku!</button>
         </div>
         <div id="overlay" >
             <div className="window-content">
-                <p id="overlayText"></p>
+                <p className="popup-txt" id="overlayText"></p>
+                <img className="image" id="img" />
                 <button className="btn btn-close" onClick={overlayOff}>sulje</button>
             </div>
 

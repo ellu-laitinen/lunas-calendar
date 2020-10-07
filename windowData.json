@@ -130,26 +130,30 @@
             "id": 19,
             "nr": 19,
             "text": "Ulkoilupäivä!",
-            "overLay": "Tänään tehdään retki!",
+            "overLay": "Tänään tehdään retki! Jos ilma on kovin huono, voi myös tehdä leikisti retken kotona: rakenna maja tai pystytä pieni teltta olohuoneeseen!",
+            "img": "https://source.unsplash.com/-8X4ymvQIfU",
             "open": false
         },
         {
             "id": 20,
             "nr": 20,
-            "text": "Leivontapäivä",
-            "overLay": "Leivotaan joulukuusipulla! Näet ohjeen <a href='./files/joulukuusipulla.pdf' >tästä</a>  <img src='./img/joulukuusipulla-1.jpg' alt='joulukuusipulla' /><br> <br> Lähde: Kinuskikissa.fi",
+            "text": "Leivontapäivä!",
+            "overLay": "Leivotaan joulukuusipulla! Näet ohjeen <a href='./files/joulukuusipulla.pdf' >tästä</a> <br> <br> Lähde: Kinuskikissa.fi",
+            "img": "/img/joulukuusipulla-1.jpg",
             "open": false
         },
         {
             "id": 21,
             "nr": 21,
-            "text": "What is the best evidence that Microsoft has a monopoly? Santa Claus had to switch from Chimneys to Windows.",
+            "text": "Tänään pelataan lautapelejä!",
+            "overLay": "",
+            "img": "",
             "open": false
         },
         {
             "id": 22,
             "nr": 22,
-            "text": "Tonttujumppa",
+            "text": "Tonttujumppaa!",
             "overLay": "Tänään on vuorossa Tonttujumppa! Katso video ja jumppaa perässä! <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ULxDiPvQpFM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe> ",
             "open": false
         },
