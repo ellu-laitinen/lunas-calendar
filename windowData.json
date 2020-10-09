@@ -3,25 +3,25 @@
         {
             "id": 1,
             "nr": 1,
-            "text": "Tänään on joulukuun ensimmäinen päivä!",
-            "overLay": "",
-            "img": "",
+            "text": "Tänään on joulukuun ensimmäinen päivä, ja sen kunniaksi askarrellaan hienoja lumihiutaleita!",
+            "overLay": "Tänään askarrellaan lumihiutaleita. <a href='./files/Lumihiutaleet.pdf' target='_blank' rel='noopener noreferrer' >Tästä</a> voit katsoa esimerkkejä, tai voit keksiä ihan omia!",
+            "img": "/img/snowflakes.jpg",
             "open": false
         },
         {
             "id": 2,
             "nr": 2,
-            "text": "Joulukoristeita!",
-            "overLay": "Tänään askarrellaan joulukoristeita kotiin! ",
-            "img": "",
+            "text": "Tänään maalataan suolan avulla!",
+            "overLay": "Tarvitset <ul><li>paperia</li><li>askarteluliimaa</li><li>suolaa</li><li>vesivärejä ja siveltimen</li></ul> <br> Tarkemmat ohjeet löydät <a href='https://www.kotonajakaupungilla.fi/2020/04/suolamaalaus.html' target='_blank' rel='noopener noreferrer'> täältä! </a>",
+            "img": "https://1.bp.blogspot.com/-RVWTWqyG5QA/XooBOy94KjI/AAAAAAAAOVA/oBMYQme09W0ZSYlfXMOX5dtH8ZYb7pQnACLcBGAsYHQ/s640/IMG_20200405_190155.jpg",
             "open": false
         },
         {
             "id": 3,
             "nr": 3,
             "text": "Tänään luetaan ihana tarina Pikku Hiirestä ja talven taiasta!",
-            "overLay": "Talvi oli tullut puutarhaan, ja Pikku Hiiri oli mieli maassa. Kesällä oli ollut paljon kauniita kukkia ja vihreitä lehtiä puussa. Hiiren isä halusi auttaa. 'Tiedän, mikä lohdun pian tuo.' Se kieputti valoja puiden oksiin ja vei lyhtyjä vajan luo. Isä neuvoi: 'Hae sisältä huopa ja kuumaa juotavaa.' Pikku Hiiri ihmetteli, mutta isä lupasi, että se kannattaa. Kun se palasi, pihalla rätisi nuotio ja valot välkkyivät kaikkialla. Pikku Hiiri halasi isää  ja sanoi: 'Talven taika on nyt meidän pihalla!' ",
-            "img": "",
+            "overLay": "Talvi oli tullut puutarhaan, ja Pikku Hiiri oli mieli maassa. Kesällä oli ollut paljon kauniita kukkia ja vihreitä lehtiä puussa. Hiiren isä halusi auttaa. <br> \"Tiedän, mikä lohdun pian tuo.\" Se kieputti valoja puiden oksiin ja vei lyhtyjä vajan luo. <br> Isä neuvoi: \"Hae sisältä huopa ja kuumaa juotavaa.\" Pikku Hiiri ihmetteli, mutta isä lupasi, että se kannattaa. Kun se palasi, pihalla rätisi nuotio ja valot välkkyivät kaikkialla. Pikku Hiiri halasi isää ja sanoi: \"Talven taika on nyt meidän pihalla!\" ",
+            "img": "/img/campfire.jpg",
             "open": false
         },
         {
@@ -60,7 +60,7 @@
             "id": 8,
             "nr": 8,
             "text": "Tänään luetaan tarina pingviinien luistelukisasta!",
-            "overLay": "Pietu Pingviini harjoitteli Hankikallion luistelukilpailua varten. Se liukui hitaasti jäällä, horjahti ja putosi pyrstölleen niin että tömähti.<br/> \"En ikinä opi luistelemaan yhtä hyvin kuin toiset\", Pietu huokaisi, kun isommat luitelijat kiitelivät ja kaartelivat sen ohi. \"Olen liian kömpelö.\" <br/> Kilpailu oli alkamaisillaan, ja Pietu odotti kärsivällisesti rivissä toisten luistelijoiden kanssa. Pekko Pingviini kiiti jääkentän poikki, hyppäsi korkealle ilmaan ja laskeutui täydellisesti. Yleisö huusi ja taputti riemuissaan. <br/> Seuraavaksi jäällä taituroi Pulmu Pingviini. Se syöksähteli ympäriinsä ja otti vauhtia piruettiin. Se pyöri niin vinhasti, että Pietua alkoi ihan huimata. Yleisö ihasteli henkeään pidätellen. <br/>Peppi Pingviin oli vuorossa ennen Pietua. Sen luistinten terän välkkyivät, kun se esitti ihanan jäätanssin. Lopulta oli Pietun vuoro siirtyä kaukaloon. Se asteli hermostuneena jäälle ja alkoi varovaisesti edetä kentän keskelle. Pietu koetti päästä liukuun, se vaappui puolelta toiselle. Se yritti ottaa vauhtia ja pyörähtää, mutta putosi jälleen pyrstölleen. Aina kunse yriti päästä pystyyn, sen jalat menivät alta ja se kaatui taas. Yleisö alkoi nauraa, ja Pietu tunsi olevansa ihan hölmö. Se keikkui sinne tänne, kun se yritti päästä pystyyn. <br/> \"Jatka vain, Pietu Pingviini!\", Pekko huusi yleisön joukosta. \"Esityksesi on superhieno!\", sanoi Peppi nauraen. Ja Pietuakin alkoi hymyilyttää. Ehkei se ollutkaan niin huono. Se kompuroi jaloilleen, ilmehti hassusti, ja yleisö ulvoi naurusta. Se luisteli kentän ympäri ja oli kaatuvinaan, sitten se liukui jään poikki vatsallaan. Yleisö nousi ylös taputtamaan. Ei ollut ollenkaan ikävää, että sai kaikki katsojat nauramaan. Kaikki olivat ihastuneita Pietun pelle-esitykseen! <br/> \"Hienoa, Pietu Pingviini!\", huusi yleisö, kun se kumarsi. \"Se oli upeaa! Olet Hankimäen hauskin luistelija!\"",
+            "overLay": "Pietu Pingviini harjoitteli Hankikallion luistelukilpailua varten. Se liukui hitaasti jäällä, horjahti ja putosi pyrstölleen niin että tömähti.<br> \"En ikinä opi luistelemaan yhtä hyvin kuin toiset\", Pietu huokaisi, kun isommat luitelijat kiitelivät ja kaartelivat sen ohi. \"Olen liian kömpelö.\" <br> <br> Kilpailu oli alkamaisillaan, ja Pietu odotti kärsivällisesti rivissä toisten luistelijoiden kanssa. Pekko Pingviini kiiti jääkentän poikki, hyppäsi korkealle ilmaan ja laskeutui täydellisesti. Yleisö huusi ja taputti riemuissaan. <br/> Seuraavaksi jäällä taituroi Pulmu Pingviini. Se syöksähteli ympäriinsä ja otti vauhtia piruettiin. Se pyöri niin vinhasti, että Pietua alkoi ihan huimata. Yleisö ihasteli henkeään pidätellen. <br/><img style='width: 200px; border: none' src='/img/penguin.png'/>Peppi Pingviin oli vuorossa ennen Pietua. Sen luistinten terän välkkyivät, kun se esitti ihanan jäätanssin. Lopulta oli Pietun vuoro siirtyä kaukaloon. Se asteli hermostuneena jäälle ja alkoi varovaisesti edetä kentän keskelle. Pietu koetti päästä liukuun, se vaappui puolelta toiselle. Se yritti ottaa vauhtia ja pyörähtää, mutta putosi jälleen pyrstölleen. Aina kunse yriti päästä pystyyn, sen jalat menivät alta ja se kaatui taas. Yleisö alkoi nauraa, ja Pietu tunsi olevansa ihan hölmö. Se keikkui sinne tänne, kun se yritti päästä pystyyn. <br/> \"Jatka vain, Pietu Pingviini!\", Pekko huusi yleisön joukosta. \"Esityksesi on superhieno!\", sanoi Peppi nauraen. Ja Pietuakin alkoi hymyilyttää. Ehkei se ollutkaan niin huono. Se kompuroi jaloilleen, ilmehti hassusti, ja yleisö ulvoi naurusta. Se luisteli kentän ympäri ja oli kaatuvinaan, sitten se liukui jään poikki vatsallaan. Yleisö nousi ylös taputtamaan. Ei ollut ollenkaan ikävää, että sai kaikki katsojat nauramaan. Kaikki olivat ihastuneita Pietun pelle-esitykseen! <br/> \"Hienoa, Pietu Pingviini!\", huusi yleisö, kun se kumarsi. \"Se oli upeaa! Olet Hankimäen hauskin luistelija!\"",
             "img": "",
             "open": false
         },
@@ -100,7 +100,7 @@
             "id": 13,
             "nr": 13,
             "text": "Tänään luetaan tarina pesukarhun talviretkestä",
-            "overLay": "Pesukarhu ystävineen oli peuhannut lumessa koko aamun. <br/> \"Tein teille voileipiä\", ilmoitti Pesukarhun äiti kotiovelta. <br> \"Vien ne puutarhaan ja syön myöhemmin\", Pesukarhu vastasi. <br> \"On liian kylmä syödä ulkona\", äiti sanoi, mutta Pesukarhu ei kuunnellut. Puutarhassa Pesukarhu sanoi: <br> \"Rakennetaan iglu ja syödään siellä.\" <br> Sen ystävät tekivät lumitiiliä ja auttoivat Pesukarhua kasaamaan ne päällekkäin. <br> <br> Kun iglu oli valmis, ne kaikki ryömivät sisälle. Yhtäkkiä niillä oli kurniva nälkä. Pesukarhu haki voileivät sisälle igluun. <br> \"Leiväthän ovat umpijäässä\", valitti Kurre. <br> \"Mehu on niin kylmää, että hampaita vihloo\", voihki Mäyrä. Kaikilla kolmella oli edelleen kova nälkä. <br> Pesukarhun äiti tuli katsomaan ystävyksiä. <br> \"Tulkaa sisälle, minulla on teille yllätys\", se sanoi. <br> Äiti oli rakentanut peitoista, tuoleista ja tyynyistä linnan. <br> \"Hurraa!\", huusi Pesukarhu, ja ne kaikki syöksyivät sisälle. <br> \"Paras paikka talviretkelle on sisällä\", Pesukarhun äiti sanoi hymyillen. Ystävykset konttasivat peittojen alle, ja siellä niitä odotti lisää voileipiä ja mehua. <br> \"Kiitos, äiti\", Pesukarhu sanoi juodessaan mehua. \"Taidat olla oikeassa.\"",
+            "overLay": "Pesukarhu ystävineen oli peuhannut lumessa koko aamun. <br/> \"Tein teille voileipiä\", ilmoitti Pesukarhun äiti kotiovelta. <br> \"Vien ne puutarhaan ja syön myöhemmin\", Pesukarhu vastasi. <br> \"On liian kylmä syödä ulkona\", äiti sanoi, mutta Pesukarhu ei kuunnellut. Puutarhassa Pesukarhu sanoi: <br> \"Rakennetaan iglu ja syödään siellä.\" <br> Sen ystävät tekivät lumitiiliä ja auttoivat Pesukarhua kasaamaan ne päällekkäin. <br> <img style='border:none' width='200' src='/img/raccoon.png'/><br> Kun iglu oli valmis, ne kaikki ryömivät sisälle. Yhtäkkiä niillä oli kurniva nälkä. Pesukarhu haki voileivät sisälle igluun. <br> \"Leiväthän ovat umpijäässä\", valitti Kurre. <br> \"Mehu on niin kylmää, että hampaita vihloo\", voihki Mäyrä. Kaikilla kolmella oli edelleen kova nälkä. <br> Pesukarhun äiti tuli katsomaan ystävyksiä. <br> \"Tulkaa sisälle, minulla on teille yllätys\", se sanoi. <br> Äiti oli rakentanut peitoista, tuoleista ja tyynyistä linnan. <br> \"Hurraa!\", huusi Pesukarhu, ja ne kaikki syöksyivät sisälle. <br> \"Paras paikka talviretkelle on sisällä\", Pesukarhun äiti sanoi hymyillen. Ystävykset konttasivat peittojen alle, ja siellä niitä odotti lisää voileipiä ja mehua. <br> \"Kiitos, äiti\", Pesukarhu sanoi juodessaan mehua. \"Taidat olla oikeassa.\"",
             "img": "",
             "open": false
         },
@@ -115,24 +115,24 @@
         {
             "id": 15,
             "nr": 15,
-            "text": "Lumihiutaleita!",
-            "overLay": "Tänään askarrellaan lumihiutaleita. <a href='./files/Lumihiutaleet.pdf' target='_blank' rel='noopener noreferrer' >Tästä</a> voit katsoa esimerkkejä, tai voit keksiä ihan omia!",
-            "img": "/img/snowflakes.jpg",
+            "text": "Joulukoristeita!",
+            "overLay": "Tänään askarrellaan joulukoristeita kotiin! ",
+            "img": "",
             "open": false
         },
         {
             "id": 16,
             "nr": 16,
-            "text": "Kiitollisuus ",
+            "text": "Kiitollisuus",
             "overLay": "Tänään mietitään asioita, joista olemme kiitollisia. Oletko saanut tällä viikolla lempiruokaasi? Opitko koulussa jotain uutta? Kävitkö luistelemassa tai jossain kivassa paikassa? Mieti 5 asiaa, joista sinä olet kiitollinen. Voit kirjoittaa ne paperille, jos haluat. Keskustele sitten äidin tai isän, isovanhemman, sisaruksen tai muun sukulaisen kanssa siitä, mistä olette kiitollisia.",
-            "img": "",
+            "img": "https://source.unsplash.com/CjI_2QX7hvU",
             "open": false
         },
         {
             "id": 17,
             "nr": 17,
             "text": "Tänään askarrellaan joulukuusenkoristeita! ",
-            "overLay": "Tähän tarvitset:<ul><li>valkoista liimaa, esim. Erikeeper</li> <li>villalankaa</li><li>nuppineuloja</li><li>piparimuotteja</li> alusta johon nuppineulat saa kiinni, esim. styroxia</ul> <br/> Löydät ohjeen <a href=\"https://www.youtube.com/watch?v=Cm0iHUY7Iog\" target='_blank' ref='noopener noreferrer'> YouTubesta </a> ja <a href=\"https://onelittleproject.com/how-to-make-wrapped-yarn-ornaments/\" target='_blank' ref='noopener noreferrer'> täältä. </a> ",
+            "overLay": "Tähän tarvitset:<ul><li>valkoista liimaa, esim. Erikeeper</li> <li>villalankaa</li><li>nuppineuloja</li><li>piparimuotteja</li><li> alusta johon nuppineulat saa kiinni, esim. styroxia</li></ul> <br/> Löydät video-ohjeen <a href=\"https://www.youtube.com/watch?v=Cm0iHUY7Iog\" target='_blank' ref='noopener noreferrer'> YouTubesta </a> ja englanninkielisen ohjeen kuvien kanssa <a href=\"https://onelittleproject.com/how-to-make-wrapped-yarn-ornaments/\" target='_blank' ref='noopener noreferrer'> täältä. </a> ",
             "img": "/img/ornaments.jpg",
             "open": false
         },
@@ -148,8 +148,8 @@
             "id": 19,
             "nr": 19,
             "text": "Ulkoilupäivä!",
-            "overLay": "Tänään tehdään retki! Jos ilma on kovin huono, voi myös tehdä leikisti retken kotona: rakenna maja tai pystytä pieni teltta olohuoneeseen ja tee itsellesi pienet retkiexäät!",
-            "img": "https://source.unsplash.com/-8X4ymvQIfU",
+            "overLay": "Tänään tehdään retki! Jos ilma on kovin huono, voi myös tehdä leikisti retken kotona: rakenna maja tai pystytä pieni teltta olohuoneeseen ja tee itsellesi retkieväät!",
+            "img": "https://source.unsplash.com/lWHzv_HT_zM",
             "open": false
         },
         {
@@ -173,7 +173,7 @@
             "nr": 22,
             "text": "Tonttujumppaa!",
             "overLay": "Tänään on vuorossa Tonttujumppa! Katso video <a href='https://www.youtube.com/ULxDiPvQpFM' target='_blank' rel='noopener noreferrer'> YouTubesta </a> ja jumppaa perässä!",
-            "img": "",
+            "img": "https://source.unsplash.com/_SB32j-cVrU",
             "open": false
         },
         {

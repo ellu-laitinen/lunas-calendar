@@ -96,8 +96,8 @@ position: relative;
      
         border: solid $color-dark 1px;
       max-height: 70%;
-      width: 60%;
-      max-width: 90%;
+     max-width: 80%;
+     // max-width: 90%;
     /*     min-width: 50%;
         min-height: 50%; */
         color: $color-dark;
@@ -165,6 +165,7 @@ position: relative;
 #img {
     border: 2px $color-dark solid;
     width: 35vh;
+    margin-left: 0 !important
 }
 
 img {
