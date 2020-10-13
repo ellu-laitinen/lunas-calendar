@@ -28,7 +28,7 @@
             "id": 4,
             "nr": 4,
             "text": "Värityskuvia!",
-            "overLay": " Tänään väritetään jouluisia kuvia. Lataa kuvat niin pääset printtaamaan ne. <br> <br>  <img width= '300' height='400' src='./img/coloring2.jpg'/> <a href='./img/coloring2.jpg' download> lataa kuva</a> <img width= '300' height='400'  alt='coloring' src='./img/christmastree.jpg'/> <a href='./img/christmastree.jpg' download> lataa kuva</a> <img width= '400' height='300' src='./img/coloring3.jpg'/> <a href='./img/coloring3.jpg' download> lataa kuva</a>",
+            "overLay": " Tänään väritetään jouluisia kuvia. Lataa kuvat niin pääset printtaamaan ne. <br> <br> <div>  <img width= '300' height='400' src='./img/coloring2.jpg'/> <a href='./img/coloring2.jpg' download> lataa kuva</a></div> <div> <img width= '300' height='400'  alt='coloring' src='./img/christmastree.jpg'/> <a href='./img/christmastree.jpg' download> lataa kuva</a> </div><div><img width= '400' height='300' src='./img/coloring3.jpg'/> <a href='./img/coloring3.jpg' download> lataa kuva</a></div> <img width= '300' height='400' src='./img/dinosaur.jpg'/> <a href='./img/dinosaur.jpg' download> lataa kuva</a>",
             "img": "",
             "open": false
         },
@@ -68,8 +68,8 @@
             "id": 9,
             "nr": 9,
             "text": "Tänään on leffapäivä!",
-            "overLay": "Pidetään leffailta! Mitä elokuvaa teillä katsotaan? Tässä hyviä vaihtoehtoja: <br> <h3> Viisi legendaa</h3>  <img width= '200' height='300' src='https://cdn3.movieweb.com/i/movie/kMQM2CqKJbRTshW9cJdXeqq4hFEoBK/1000:100/Rise-Of-The-Guardians.jpg' <br> <br> <h3>Frozen</h3><img width= '200' height='300' src='https://upload.wikimedia.org/wikipedia/fi/thumb/c/cd/Frozen_huurteinen_seikkailu.jpg/250px-Frozen_huurteinen_seikkailu.jpg' /> <br> <h3> Artturi Joulu - Joulupukin poika</h3> <img width='200' height='300' src='https://upload.wikimedia.org/wikipedia/fi/b/b7/Arthurin_joulu.jpeg' />",
-            "img": "",
+            "overLay": "Pidetään leffailta! Mitä elokuvaa teillä katsotaan? Tässä esimerkkejä: <br> <h4> Viisi legendaa</h4>  <img width= '200' height='300' src='https://cdn3.movieweb.com/i/movie/kMQM2CqKJbRTshW9cJdXeqq4hFEoBK/1000:100/Rise-Of-The-Guardians.jpg' <br> <br> <h4>Frozen</h4><img width= '200' height='300' src='https://upload.wikimedia.org/wikipedia/fi/thumb/c/cd/Frozen_huurteinen_seikkailu.jpg/250px-Frozen_huurteinen_seikkailu.jpg' /> <br> <h4> Artturi Joulu - Joulupukin poika</h4> <img width='200' height='300' src='https://upload.wikimedia.org/wikipedia/fi/b/b7/Arthurin_joulu.jpeg' /> <br> <h4>Puppy Star: Joulu</h4> <img width='200' height='300' src='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQumCDYtnm_UYHDnyjOAXZGACBaJbvtg4yvDgJZoyeZBHoEcSi4' alt='puppy star christmas movie' /> <br> <h3>Hyvää leffailtaa!</h3>",
+            "img": "https://source.unsplash.com/U-Vu_r6qyyU",
             "open": false
         },
         {
