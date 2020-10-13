@@ -92,7 +92,7 @@ function App() {
       <div>
         <h1 className="title">Lasten oma joulukalenteri</h1>
       </div>
-      <div className="snowflakes" aria-hidden="true">
+      {/*   <div className="snowflakes" aria-hidden="true">
 
         <div className="snowflake">
           ❅
@@ -117,7 +117,7 @@ function App() {
         <div className="snowflake">
           ❄
   </div>
-      </div>
+      </div> */}
       <div className="more-snow calendar-main">
 
         {windowList}
