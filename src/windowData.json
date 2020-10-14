@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "nr": 1,
+        "text": "Aloitetaan joulukuu askartelemalla lumihiutaleita ❄️",
+        "overLay": "Tänään askarrellaan lumihiutaleita. <a href='./files/Lumihiutaleet.pdf' target='_blank' rel='noopener noreferrer' >Tästä</a> voit katsoa esimerkkejä, tai voit keksiä ihan omia!",
+        "img": "/img/snowflakes.jpg",
+        "open": false
+    },
+    {
+        "id": 2,
+        "nr": 2,
+        "text": "Tänään maalataan suolan avulla!",
+        "overLay": "Tarvitset <ul><li>paperia</li><li>askarteluliimaa</li><li>suolaa</li><li>vesivärejä ja siveltimen</li></ul> <br> Tarkemmat ohjeet löydät <a href='https://www.kotonajakaupungilla.fi/2020/04/suolamaalaus.html' target='_blank' rel='noopener noreferrer'> täältä! </a>",
+        "img": "https://1.bp.blogspot.com/-RVWTWqyG5QA/XooBOy94KjI/AAAAAAAAOVA/oBMYQme09W0ZSYlfXMOX5dtH8ZYb7pQnACLcBGAsYHQ/s640/IMG_20200405_190155.jpg",
+        "open": false
+    },
+    {
+        "id": 3,
+        "nr": 3,
+        "text": "Tänään luetaan ihana tarina Pikku Hiirestä ja talven taiasta!",
+        "overLay": "Talvi oli tullut puutarhaan, ja Pikku Hiiri oli mieli maassa. Kesällä oli ollut paljon kauniita kukkia ja vihreitä lehtiä puussa. Hiiren isä halusi auttaa. <br> \"Tiedän, mikä lohdun pian tuo.\" Se kieputti valoja puiden oksiin ja vei lyhtyjä vajan luo. <br> Isä neuvoi: \"Hae sisältä huopa ja kuumaa juotavaa.\" Pikku Hiiri ihmetteli, mutta isä lupasi, että se kannattaa. Kun se palasi, pihalla rätisi nuotio ja valot välkkyivät kaikkialla. Pikku Hiiri halasi isää ja sanoi: \"Talven taika on nyt meidän pihalla!\" ",
+        "img": "/img/campfire.jpg",
+        "open": false
+    },
+    {
+        "id": 4,
+        "nr": 4,
+        "text": "Värityskuvia!",
+        "overLay": " Tänään väritetään jouluisia kuvia. Lataa kuvat niin pääset printtaamaan ne. <br> <br> <div>  <img width= '300' height='400' src='./img/coloring2.jpg'/> <a href='./img/coloring2.jpg' download> lataa kuva</a></div> <div> <img width= '300' height='400'  alt='coloring' src='./img/christmastree.jpg'/> <a href='./img/christmastree.jpg' download> lataa kuva</a> </div><div><img width= '400' height='300' src='./img/coloring3.jpg'/> <a href='./img/coloring3.jpg' download> lataa kuva</a></div> <img width= '300' height='400' src='./img/dinosaur.jpg'/> <a href='./img/dinosaur.jpg' download> lataa kuva</a>",
+        "img": "",
+        "open": false
+    },
+    {
+        "id": 5,
+        "nr": 5,
+        "text": "Askarrellaan lumiukkoja ⛄",
+        "overLay": "Tänään askarrellaan lumiukkoja! Tarvitset <ul><li>kartonkia (valkoista ja erivärisiä)</li><li>sakset</li><li>värikyniä: puuvärejä tai tusseja</li></ul> <br> Taittele valkoinen kartonki neljään tai viiteen kerrokseen. Piirrä lumiukon ääriviivat kartonkiin. <br> <img src='/img/lumiukko1.jpg' width='300' alt='lumiukkoaskartelu vaihe 1' /><br> <br>Leikkaa viivaa pitkin lumiukon ylä- ja alaosa pois. <br> <img src='/img/lumiukko2.jpg' width='300' alt='lumiukkoaskartelu vaihe 2' /> <br> Varo ettet leikkaa sivuja! <br>  <img src='/img/lumiukko3.jpg' width='300' alt='lumiukkoaskartelu vaihe 3' /> <br> <br> Piirrä sitten lumiukoille kasvot ja napit. Voit myös askarrella lumiukoille pienet hatut, tai mitä ikinä keksitkin! ",
+        "img": "https://www.sinelli.fi/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/v/1/v15435.jpg",
+        "open": false
+    },
+    {
+        "id": 6,
+        "nr": 6,
+        "text": "Herkkuja linnuille 🐦",
+        "overLay": "Tänään tehdään jouluruokaa linnuille! <br> Tarvitset <ul><li>koookosrasvaa tai kasviöljypohjaista munkkirasvaa</li><li>lintujen siemensekoitusta</li><li>piparimuotteja tai kakkuvuoan</li><li>narua</li></ul> <a href='https://suomenluonto.fi/uutiset/tulkaas-linnut-kakulle/' target='_blank' rel='noopener noreferrer'>Tästä</a> pääset katsomaan siemenkakun ohjeen, ja <a href='http://suomenluonto.fi/uutiset/pipareita-linnuille/'  target='_blank' rel='noopener noreferrer'> tästä </a> lintujen pipariohjeen!",
+        "img": "/img/siemenkranssi.jpg ",
+        "open": false
+    },
+    {
+        "id": 7,
+        "nr": 7,
+        "text": "Tänään herkutellaan kaakaolla ☕",
+        "overLay": "Tehdään ihanaa erikoiskaakaota! <br> <br>Tarvitset <ul> <li> 0,5 l maitoa </li> <li> 2 rkl tummaa kaakaojauhetta </li><li> 80g tummaa suklaata raastettuna </li><li> mausteita oman maun mukaan (kaneli, chili, piparminttu...) </li> <li>Koristeita, esim. vaahtokarkkeja ja kermavaahtoa</li></ul> <br> Koko resepti löytyy <a href='https://lejos.fi/reseptit/maailman-paras-kaakao/' target='_blank' rel='noopener noreferrer'>täältä! </a>",
+        "img": "https://source.unsplash.com/KpbcO3EJbFM",
+        "open": false
+    },
+    {
+        "id": 8,
+        "nr": 8,
+        "text": "Tänään luetaan tarina pingviinien luistelukisasta 🐧",
+        "overLay": "Pietu Pingviini harjoitteli Hankikallion luistelukilpailua varten. Se liukui hitaasti jäällä, horjahti ja putosi pyrstölleen niin että tömähti.<br> \"En ikinä opi luistelemaan yhtä hyvin kuin toiset\", Pietu huokaisi, kun isommat luitelijat kiitelivät ja kaartelivat sen ohi. \"Olen liian kömpelö.\" <br> <br> Kilpailu oli alkamaisillaan, ja Pietu odotti kärsivällisesti rivissä toisten luistelijoiden kanssa. Pekko Pingviini kiiti jääkentän poikki, hyppäsi korkealle ilmaan ja laskeutui täydellisesti. Yleisö huusi ja taputti riemuissaan. <br/> Seuraavaksi jäällä taituroi Pulmu Pingviini. Se syöksähteli ympäriinsä ja otti vauhtia piruettiin. Se pyöri niin vinhasti, että Pietua alkoi ihan huimata. Yleisö ihasteli henkeään pidätellen. <br/><img style='width: 200px; border: none' src='/img/penguin.png'/>Peppi Pingviin oli vuorossa ennen Pietua. Sen luistinten terän välkkyivät, kun se esitti ihanan jäätanssin. Lopulta oli Pietun vuoro siirtyä kaukaloon. Se asteli hermostuneena jäälle ja alkoi varovaisesti edetä kentän keskelle. Pietu koetti päästä liukuun, se vaappui puolelta toiselle. Se yritti ottaa vauhtia ja pyörähtää, mutta putosi jälleen pyrstölleen. Aina kun se yriti päästä pystyyn, sen jalat menivät alta ja se kaatui taas. Yleisö alkoi nauraa, ja Pietu tunsi olevansa ihan hölmö. Se keikkui sinne tänne, kun se yritti päästä pystyyn. <br/> \"Jatka vain, Pietu Pingviini!\", Pekko huusi yleisön joukosta. \"Esityksesi on superhieno!\", sanoi Peppi nauraen. Ja Pietuakin alkoi hymyilyttää. Ehkei se ollutkaan niin huono. Se kompuroi jaloilleen, ilmehti hassusti, ja yleisö ulvoi naurusta. Se luisteli kentän ympäri ja oli kaatuvinaan, sitten se liukui jään poikki vatsallaan. Yleisö nousi ylös taputtamaan. Ei ollut ollenkaan ikävää, että sai kaikki katsojat nauramaan. Kaikki olivat ihastuneita Pietun pelle-esitykseen! <br/> \"Hienoa, Pietu Pingviini!\", huusi yleisö, kun se kumarsi. \"Se oli upeaa! Olet Hankimäen hauskin luistelija!\"",
+        "img": "",
+        "open": false
+    },
+    {
+        "id": 9,
+        "nr": 9,
+        "text": "Tänään on leffapäivä!",
+        "overLay": "Pidetään leffailta! Mitä elokuvaa teillä katsotaan? Tässä esimerkkejä: <br> <h4> Viisi legendaa</h4>  <img width= '200' height='300' src='https://cdn3.movieweb.com/i/movie/kMQM2CqKJbRTshW9cJdXeqq4hFEoBK/1000:100/Rise-Of-The-Guardians.jpg' <br> <br> <h4>Frozen</h4><img width= '200' height='300' src='https://upload.wikimedia.org/wikipedia/fi/thumb/c/cd/Frozen_huurteinen_seikkailu.jpg/250px-Frozen_huurteinen_seikkailu.jpg' /> <br> <h4> Artturi Joulu - Joulupukin poika</h4> <img width='200' height='300' src='https://upload.wikimedia.org/wikipedia/fi/b/b7/Arthurin_joulu.jpeg' /> <br> <h4>Puppy Star: Joulu</h4> <img width='200' height='300' src='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQumCDYtnm_UYHDnyjOAXZGACBaJbvtg4yvDgJZoyeZBHoEcSi4' alt='puppy star christmas movie' /> <br> <h3>Hyvää leffailtaa!</h3>",
+        "img": "https://source.unsplash.com/U-Vu_r6qyyU",
+        "open": false
+    },
+    {
+        "id": 10,
+        "nr": 10,
+        "text": "Piirustuspäivä!",
+        "overLay": "Tänään piirretään jouluisia kuvia! Katso video <a href='https://www.youtube.com/watch?v=fpr4P4ak85c' target='_blank' rel='noopener noreferrer'> YouTubesta </a> ja piirrä mukana. Helppoa!",
+        "img": "https://source.unsplash.com/l3N9Q27zULw",
+        "open": false
+    },
+    {
+        "id": 11,
+        "nr": 11,
+        "text": "Hyviä tekoja ❤️",
+        "overLay": "Tänään on hyvien tekojen päivä. Mieti, ketä sinä haluaisit auttaa ja ilahduttaa? Autatko vanhempia kattamaan ja siivoamaan ruokapöydän? Järjesteletkö omat vaatteet ja lelut omille paikoilleen? Tai veisitkö roskat? Kerro perheenjäsenillesi, kuinka haluaisit auttaa ja ilahduttaa heitä tänään!",
+        "img": "https://source.unsplash.com/jcc8sxK2Adw",
+        "open": false
+    },
+    {
+        "id": 12,
+        "nr": 12,
+        "text": "Korttiaskartelua!",
+        "overLay": "Tänään askarrellaan joulukortteja! Löydät monta kivaa ideaa <a href='https://www.meillakotona.fi/artikkelit/joulukortti' target='_blank' rel='noopener noreferrer'> täältä!</a> Mikä on sinun suosikkisi?",
+        "img": "https://source.unsplash.com/UVPrs2vyXf0",
+        "open": false
+    },
+    {
+        "id": 13,
+        "nr": 13,
+        "text": "Tänään luetaan tarina pesukarhun talviretkestä",
+        "overLay": "Pesukarhu ystävineen oli peuhannut lumessa koko aamun. <br/> \"Tein teille voileipiä\", ilmoitti Pesukarhun äiti kotiovelta. <br> \"Vien ne puutarhaan ja syön myöhemmin\", Pesukarhu vastasi. <br> \"On liian kylmä syödä ulkona\", äiti sanoi, mutta Pesukarhu ei kuunnellut. Puutarhassa Pesukarhu sanoi: <br> \"Rakennetaan iglu ja syödään siellä.\" <br> Sen ystävät tekivät lumitiiliä ja auttoivat Pesukarhua kasaamaan ne päällekkäin. <br> <img style='border:none' width='200' src='/img/igloo.png'/><br> Kun iglu oli valmis, ne kaikki ryömivät sisälle. Yhtäkkiä niillä oli kurniva nälkä. Pesukarhu haki voileivät sisälle igluun. <br> \"Leiväthän ovat umpijäässä\", valitti Kurre. <br> \"Mehu on niin kylmää, että hampaita vihloo\", voihki Mäyrä. Kaikilla kolmella oli edelleen kova nälkä. <br> Pesukarhun äiti tuli katsomaan ystävyksiä. <br> \"Tulkaa sisälle, minulla on teille yllätys\", se sanoi. <br>  <img style='border:none' width='200' src='/img/raccoon.png'/> <br>Äiti oli rakentanut peitoista, tuoleista ja tyynyistä linnan. <br> \"Hurraa!\", huusi Pesukarhu, ja ne kaikki syöksyivät sisälle. <br> \"Paras paikka talviretkelle on sisällä\", Pesukarhun äiti sanoi hymyillen. Ystävykset konttasivat peittojen alle, ja siellä niitä odotti lisää voileipiä ja mehua. <br> \"Kiitos, äiti\", Pesukarhu sanoi juodessaan mehua. \"Taidat olla oikeassa.\"",
+        "img": "",
+        "open": false
+    },
+    {
+        "id": 14,
+        "nr": 14,
+        "text": "Piparinleivontaa!",
+        "overLay": "Tänään leivotaan ja koristellaan pipareita! Katso vinkkejä koristeluun <a href='https://www.blessthismessplease.com/decorate-gingerbread-cookies/' target='_blank' rel='noopener noreferrer'> täältä! </a>",
+        "img": "https://source.unsplash.com/GaN3Xr75Pl4",
+        "open": false
+    },
+    {
+        "id": 15,
+        "nr": 15,
+        "text": "Tänään keksitään oma joulutarina",
+        "overLay": "Keksi oma jouluaiheinen tarina. Voit kirjoittaa sen paperille jos haluat. Tai voit myös tehdä oman joululaulun ja esittää sen perheenjäsenelle! <br> <br> Ideoita laulun tai tarinan aiheiksi: <ul> <li>Tonttujen joulujuhla</li><li>Joulupukin porot lomalla </li> <li>Kadonnut lahjapaketti</li> <li>Dinosaurusten joulu</li> </ul>",
+        "img": "/img/reading.jpg",
+        "open": false
+    },
+    {
+        "id": 16,
+        "nr": 16,
+        "text": "Kiitollisuus 😊",
+        "overLay": "Tänään mietitään asioita, joista olemme kiitollisia. Saitko lempiruokaasi? Opitko koulussa jotain uutta? Kävitkö luistelemassa tai jossain kivassa paikassa? Mieti 5 asiaa, joista sinä olet kiitollinen. Voit kirjoittaa ne paperille, jos haluat. Keskustele sitten äidin tai isän, isovanhemman, sisaruksen tai muun sukulaisen kanssa siitä, mistä olette kiitollisia.",
+        "img": "https://source.unsplash.com/CjI_2QX7hvU",
+        "open": false
+    },
+    {
+        "id": 17,
+        "nr": 17,
+        "text": "Tänään askarrellaan koristeita joulukuuseen 🎄",
+        "overLay": "Tähän tarvitset:<ul><li>valkoista liimaa, esim. Erikeeper</li> <li>villalankaa</li><li>nuppineuloja</li><li>piparimuotteja</li><li> alusta johon nuppineulat saa kiinni, esim. styroxia</li></ul> <br/> Löydät video-ohjeen <a href=\"https://www.youtube.com/watch?v=Cm0iHUY7Iog\" target='_blank' ref='noopener noreferrer'> YouTubesta </a> ja englanninkielisen ohjeen kuvien kanssa <a href=\"https://onelittleproject.com/how-to-make-wrapped-yarn-ornaments/\" target='_blank' ref='noopener noreferrer'> täältä. </a> ",
+        "img": "/img/ornaments.jpg",
+        "open": false
+    },
+    {
+        "id": 18,
+        "nr": 18,
+        "text": "Tänään luetaan tarina siitä, kun Myyrä vilustui",
+        "overLay": "Talvi oli tullut, ja Myyrä odotti lunta malttamattomana. Se meni joka päivä ulos ja katseli taivaalle. Ulkona tuuli ja satoi, mutta lunta ei kuulunut. <br> \"Tule sisälle\", sanoi Myyrän äiti, \"muuten sinä vilustut.\" <br> Sitten eräänä päivänä Myyrä heräsi ja veti verhot auki. <br> \"Nyt sataa lunta!\", se hihkaisi, mutta sen ääni oli vähän käheä. Myyrän kurkku oli kipeä ja sen päätä pakotti. Yhtäkkiä se aivasti kuuluvasti. Atsuu! Myyrä oli vilustunut. Alakerrassa soi ovikello. Myyrän ystävät olivat tulleet hakemaan sitä. <br> \"Lunta sataa!\", huudahti Pupu. \"Tule ulos leikkimään.\" <br> Myyrä tuhisi  ja puhisi ja siltä pääsi hurja aivastus. <br> \"En voi\", se sanoi surkeana. \"Olen vilustunut.\" <br> <img src='./img/wintry.png' alt='drawing of house and snow' width='300' /><br> Myyrän äiti peitteli sen vuoteeseen. <br> \"Ihan epäreilua\", Myyrä niiskutti surullisena. \"Minäkin haluan lumeen leikkimään.\"  <br> Siltä pääsi vielä iso aivastus - \"Atsuu!\" - ja se painui peiton alle nukkumaan. Silloin Myyrän äiti sai ajatuksen.<br> \"Tiedän, miten Myyrä pääsee lumeen leikkimään\", äiti sanoi Pupulle ja Oravalle. Äidillä oli paljon valkoista silkkipaperia. <br> \"Ottakaa mallia\", se sanoi ja laittoi pöydälle paperia ja sakset. Toiset kerääntyivät pöydän ympärille, ja Myyrän äiti antoi niille ohjeet. <br><br> Kun Myyrä heräsi, sen ympärillä kieppui paperisia lumihiutaleita. <br> \"Yllätys!\", huusivat äiti, Pupu ja Orava. \"Me teimme sinulle lunta!\" <br> Myyrän olo oli heti paljon parempi, koska nyt sisälläkin satoi lunta. <br> \"Näin lumisade on kaksin verroin hauskempaa!\", se huudahti.",
+        "img": "/img/snowflakes2.jpg",
+        "open": false
+    },
+    {
+        "id": 19,
+        "nr": 19,
+        "text": "Ulkoilupäivä!",
+        "overLay": "Tänään tehdään retki! Jos ilma on kovin huono, voi myös tehdä leikisti retken kotona: rakenna maja tai pystytä pieni teltta olohuoneeseen ja tee itsellesi retkieväät!",
+        "img": "https://source.unsplash.com/lWHzv_HT_zM",
+        "open": false
+    },
+    {
+        "id": 20,
+        "nr": 20,
+        "text": "Leivontapäivä 🥧",
+        "overLay": "Leivotaan joulukuusipulla! Näet ohjeen <a href='./files/joulukuusipulla.pdf' target='_blank' rel='noopener noreferrer' >tästä.</a> <br> <br> Lähde: Kinuskikissa.fi",
+        "img": "/img/joulukuusipulla-1.jpg",
+        "open": false
+    },
+    {
+        "id": 21,
+        "nr": 21,
+        "text": "Tänään pelataan lautapelejä 🎲",
+        "overLay": "Afrikan tähti, Huojuva torni, Alias... Mitä lautapelejä teillä on? Mikä niistä on suosikkisi? Voit myös pelata korttia, tai vaikkapa UNO-peliä!",
+        "img": "https://source.unsplash.com/geNNFqfvw48",
+        "open": false
+    },
+    {
+        "id": 22,
+        "nr": 22,
+        "text": "Tonttujumppaa 🎅",
+        "overLay": "Tänään on vuorossa Tonttujumppa! Katso video <a href='https://www.youtube.com/watch?v=ULxDiPvQpFM' target='_blank' rel='noopener noreferrer'> YouTubesta </a> ja jumppaa mukana!",
+        "img": "https://source.unsplash.com/_SB32j-cVrU",
+        "open": false
+    },
+    {
+        "id": 23,
+        "nr": 23,
+        "text": "Huomenna on jouluaatto, joten tänään siivotaan koti valmiiksi!",
+        "overLay": "Laita kivaa musiikkia soimaan, tonttulakki päähän ja siivoa vaikka oma huone tai olohuone valmiiksi jouluaattoa varten! Voit myös miettiä, onko sinulla sellaisia leluja tai vaatteita joita et enää tarvitse, ja jotka voisi antaa pois.",
+        "img": "https://source.unsplash.com/cpIgNaazQ6w",
+        "open": false
+    },
+    {
+        "id": 24,
+        "nr": 24,
+        "text": "Hyvää joulua! 🎁",
+        "overLay": "Tänään on vihdoin JOULUAATTO! On aika rauhoittua ja rentoutua - ja nauttia satuhieronnasta! Katso ja kuuntele tämä jouluinen Talvimetsän tarina -satuhieronta <a href= 'https://www.youtube.com/watch?v=-RaE0iEhnNk' target='_blank' rel='noopener noreferrer'>YouTubesta</a>, ja tehkää vanhempien tai sisarusten kanssa hieronta toisillenne. <br> <br> <h3>Ihanaa joulua!</a>",
+        "img": "https://source.unsplash.com/IPubTLY7Ji0",
+        "open": false
+    }
+]

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+// import axios from 'axios';
+import data from './windowData.json'
 
 // import { createCalendar } from './helpers'
 import Window from './Window/Window';
@@ -18,21 +19,22 @@ const shuffle = a => {
 function App() {
   const [window, setWindow] = useState([])
 
-
-
+  const hatchData = data;
 
   useEffect(() => {
     let calendar = [];
     if (localStorage.calendar !== undefined) {
       calendar = JSON.parse(localStorage.calendar)
     } else {
-      axios.get("http://localhost:3001/windows").then((response) => {
-        const windows = response.data
-        setWindow(shuffle(windows))
+      calendar = hatchData;
+      /*    axios.get("http://localhost:3001/windows").then((response) => {
+           const windows = response.data
+         
+   
+         }
+         ) */
+      setWindow(shuffle(calendar))
 
-      }
-      )
-      calendar = window;
     };
     setWindow(calendar)
 
