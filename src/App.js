@@ -1,8 +1,5 @@
 import React, { useState, useEffect } from 'react';
-// import axios from 'axios';
 import data from './windowData.json'
-
-// import { createCalendar } from './helpers'
 import Window from './Window/Window';
 import './App.scss'
 
@@ -15,7 +12,6 @@ const shuffle = a => {
   return a;
 };
 
-
 function App() {
   const [window, setWindow] = useState([])
 
@@ -27,12 +23,7 @@ function App() {
       calendar = JSON.parse(localStorage.calendar)
     } else {
       calendar = hatchData;
-      /*    axios.get("http://localhost:3001/windows").then((response) => {
-           const windows = response.data
-         
-   
-         }
-         ) */
+
       setWindow(shuffle(calendar))
 
     };
@@ -44,19 +35,6 @@ function App() {
   useEffect(() => {
     window.length && localStorage.setItem('calendar', JSON.stringify(window));
   }, [window])
-
-
-  /*  useEffect(() => {
-     const calendar = localStorage.calendar
-       ? JSON.parse(localStorage.calendar)
-       : window;
-   
-     setWindow(calendar);
-   }, []);
-  */
-
-
-  // const createCalendar = () => shuffle(window);
 
   const handleFlipWindow = (id) => {
     /* let today = new Date().getDate(); */
@@ -94,32 +72,6 @@ function App() {
       <div>
         <h1 className="title">Lasten oma joulukalenteri</h1>
       </div>
-      {/*   <div className="snowflakes" aria-hidden="true">
-
-        <div className="snowflake">
-          ❅
-  </div>
-
-        <div className="snowflake">
-          ❄
-  </div>
-        <div className="snowflake">
-          ❅
-  </div>
-        <div className="snowflake">
-          ❆
-  </div>
-        <div className="snowflake">
-          ❄
-  </div>
-        <div className="snowflake">
-          ❅
-  </div>
-
-        <div className="snowflake">
-          ❄
-  </div>
-      </div> */}
       <div className="more-snow calendar-main">
 
         {windowList}
