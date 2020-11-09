@@ -1,9 +1,10 @@
 @import './Window/variables';
 
-html {
+body {
   background-color: #000;
-  background-image: url('https://source.unsplash.com/5PQn41LFsQk') ;
+  background-image: url('https://source.unsplash.com/5PQn41LFsQk');
   background-size: cover;
+  background-position: center;
   height: 100%;
   background-repeat: no-repeat;
 }
