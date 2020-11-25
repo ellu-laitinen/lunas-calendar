@@ -37,10 +37,10 @@ function App() {
   }, [window])
 
   const handleFlipWindow = (id) => {
-    /* let today = new Date().getDate(); */
+    let today = new Date().getDate();
     /*  console.log(today)  */
     const updatedWindows = window.map(window =>
-      window.id === id  /*  && window.nr <= today */ ?
+      window.id === id && window.nr <= today ?
         { ...window, open: !window.open } : window
 
     );
